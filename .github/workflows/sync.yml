@@ -3,7 +3,7 @@ name: Sync figures with Wikipedia
 on:
   workflow_dispatch:
   schedule:
-    - cron: "10 12 * * *" # 12pm daily
+    - cron: "0 13 * * *" # 12pm daily
 
 jobs:
   build:
