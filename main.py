@@ -1,4 +1,6 @@
 """scrape wikipedia with a list of notable figures"""
+import os
+import re
 import wikipediaapi
 from figures import FIGURES
 
@@ -11,25 +13,56 @@ def write_sections(sections, outp, level=0):
         outp.write("\n\n")
         write_sections(section.sections, outp, level + 1)
 
-wiki = wikipediaapi.Wikipedia('Notable Figures (notable@crxssed.dev)', 'en')
+def sync():
+    """syncs all figures with their Wikipedia articles"""
+    wiki = wikipediaapi.Wikipedia('Notable Figures (notable@crxssed.dev)', 'en')
 
-for figure in FIGURES:
-    WIKI_ID = dict(figure).get("id")
-    IMAGE = dict(figure).get("image")
-    if not WIKI_ID:
-        continue
+    for figure in FIGURES:
+        wiki_id = dict(figure).get("id")
+        image = dict(figure).get("image")
+        if not wiki_id:
+            continue
 
-    figure_wiki = wiki.page(WIKI_ID)
+        figure_wiki = wiki.page(wiki_id)
 
-    if not figure_wiki.exists():
-        print(f"{WIKI_ID} does not exist on Wikipedia. Continuing...")
-        continue
+        if not figure_wiki.exists():
+            print(f"{wiki_id} does not exist on Wikipedia. Continuing...")
+            continue
 
-    filename = f"figures/{figure_wiki.title}.md"
+        filename = f"figures/{figure_wiki.title}.md"
 
-    with open(filename, "w", encoding="utf8") as file:
-        file.write(f"# {figure_wiki.title}\n\n")
-        file.write(f"*{figure_wiki.summary}*\n\n")
-        if IMAGE:
-            file.write(f"<img src='{IMAGE}' width='300px'>\n\n")
-        write_sections(figure_wiki.sections, file)
+        with open(filename, "w", encoding="utf8") as file:
+            file.write(f"# {figure_wiki.title}\n\n")
+            file.write(f"*{figure_wiki.summary}*\n\n")
+            if image:
+                file.write(f"<img src='{image}' width='300px'>\n\n")
+            write_sections(figure_wiki.sections, file)
+
+def update_readme():
+    """updates the README with the new table of contents"""
+    files = os.listdir("figures/")
+    files.sort()
+    files.remove('.keep')
+    contents = ["<!-- TOC -->"]
+    for f in files:
+        contents.append(f"[{f.removesuffix('.md')}]('figures/{f}')")
+    contents.append("<!-- END-TOC -->")
+
+    markdown = "\n".join(contents)
+
+    with open("README.md", "rt", encoding="utf8") as fin:
+        readme_contents = fin.read()
+
+    pattern = "<!-- TOC -->[\\s\\S]+<!-- END-TOC -->"
+    new_contents = re.sub(
+        pattern=pattern,
+        repl=markdown,
+        string=readme_contents
+    )
+
+    with open("README.md", "w", encoding="utf8") as fin:
+        fin.write(new_contents)
+
+if __name__ == "__main__":
+    sync()
+    update_readme()
