@@ -1,4 +1,8 @@
 remote_theme: poole/hyde
 plugins:
 - jekyll-remote-theme
-baseurl: /
+
+title: Notable Figures
+tagline: Informational reading about really cool people.
+url: https://crxssed.dev/notable-figures
+baseurl: /notable-figures/
