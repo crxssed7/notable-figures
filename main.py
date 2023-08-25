@@ -40,20 +40,24 @@ def sync():
 
 def update_readme():
     """updates the README with the new table of contents"""
+    block_start = "<!-- TOC -->"
+    block_end = "<!-- END-TOC -->"
+
     files = os.listdir("figures/")
     files.sort()
-    files.remove('.keep')
-    contents = ["<!-- TOC -->"]
-    for f in files:
-        contents.append(f"[{f.removesuffix('.md')}]('figures/{f}')")
-    contents.append("<!-- END-TOC -->")
+    files.remove(".keep")
+
+    contents = [block_start]
+    for file in files:
+        contents.append(f"[{file.removesuffix('.md')}]('figures/{file}')")
+    contents.append(block_end)
 
     markdown = "\n".join(contents)
 
     with open("README.md", "rt", encoding="utf8") as fin:
         readme_contents = fin.read()
 
-    pattern = "<!-- TOC -->[\\s\\S]+<!-- END-TOC -->"
+    pattern = f"{block_start}[\\s\\S]+{block_end}"
     new_contents = re.sub(
         pattern=pattern,
         repl=markdown,
