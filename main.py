@@ -50,7 +50,7 @@ def update_readme():
 
     contents = [block_start]
     for file in files:
-        contents.append(f"[{file.removesuffix('.md')}](figures/{urllib.parse.quote(file)})\n")
+        contents.append(f" - [{file.removesuffix('.md')}](figures/{urllib.parse.quote(file)})\n")
     contents.append(block_end)
 
     markdown = "\n".join(contents)
