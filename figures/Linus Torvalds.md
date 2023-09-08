@@ -87,7 +87,7 @@ Ten years of NODES
 
 Linus Torvalds: Linux succeeded thanks to selfishness and trust
 
-Torvalds interview
+Torvalds interview Archived 25 September 2012 at the Wayback Machine
 
 Lawsuits involving Torvalds at Curlie
 
