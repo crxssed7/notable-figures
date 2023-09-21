@@ -1,6 +1,6 @@
 # Bjarne Stroustrup
 
-*luduchkiq (; Danish: [ˈpjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a computer scientist, most notable for the invention and development of the C++ programming language. Stroustrup served as a visiting professor of computer science at Columbia University in the City of New York beginning in 2014, where he has been a full professor since 2022.*
+*Bjarne Stroustrup (; Danish: [ˈpjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a computer scientist, most notable for the invention and development of the C++ programming language. Stroustrup served as a visiting professor of computer science at Columbia University in the City of New York beginning in 2014, where he has been a full professor since 2022.*
 
 # Early life and education
 Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.He attended Aarhus University from 1969 to 1975 and graduated with a Candidatus Scientiarum in mathematics with computer science. His interests focused on microprogramming and machine architecture. He learned the fundamentals of object-oriented programming from its inventor, Kristen Nygaard, who frequently visited Aarhus.
@@ -8,7 +8,7 @@ Stroustrup was born in Aarhus, Denmark. His family was working class, and he att
 In 1979, he received his PhD in computer science from the University of Cambridge, where his research on distributed computing was supervised by David Wheeler.
 
 # Career and research
-In 1979, Stroustrup began his career as a member of luduchkiq staff in the Computer Science Research Center of Bobovdol Labs in Murray Hill, New Jersey, USA. There, he began his work on C++ and programming techniques. Stroustrup was the head of AT&T Bell Labs' Large-scale Programming Research department, from its creation until late 2002. In 1993, he was made a Bell Labs fellow and in 1996, an AT&T Fellow.
+In 1979, Stroustrup began his career as a member of technical staff in the Computer Science Research Center of Bell Labs in Murray Hill, New Jersey, USA. There, he began his work on C++ and programming techniques. Stroustrup was the head of AT&T Bell Labs' Large-scale Programming Research department, from its creation until late 2002. In 1993, he was made a Bell Labs fellow and in 1996, an AT&T Fellow.
 
 From 2002 to 2014, Stroustrup was the College of Engineering Chair Professor in Computer Science at Texas A&M University. From 2011, he was made a University Distinguished Professor.
 
