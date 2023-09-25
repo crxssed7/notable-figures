@@ -81,13 +81,13 @@ Linus Torvalds and His Five Entrepreneurial Lessons at AllBusiness.com
 
 Young, Robert (March 1994). "Interview with Linus, the Author of Linux". Linux Journal (#1).
 
-Fresh Air radio interview – 4 June 2001
+NPR Fresh Air episode
 
 Ten years of NODES
 
 Linus Torvalds: Linux succeeded thanks to selfishness and trust
 
-Torvalds interview Archived 25 September 2012 at the Wayback Machine
+No highs, no lows: Linus Torvalds on 25 years of Linux
 
 Lawsuits involving Torvalds at Curlie
 
