@@ -198,7 +198,7 @@ Alan Turing Year Archived 17 February 2019 at the Wayback Machine
 
 CiE 2012: Turing Centenary Conference
 
-Science in the Making Alan Turing's papers in the Royal Society's archives
+Science in the MakingArchived 4 April 2023 at the Wayback Machine Alan Turing's papers in the Royal Society's archives
 
 Alan Turing site maintained by Andrew Hodges including a short biography
 
