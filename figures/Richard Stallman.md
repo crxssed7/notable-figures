@@ -162,3 +162,5 @@ Essays on the Philosophy of the GNU Project, almost all written by Stallman
 
 Free Software, Free Society: Selected Essays of Richard M. Stallman 3rd edition, free pdf book, written by Stallman
 
+A Whitean Reading of Richard Stallman: Literary Dimensions in “The GNU Operating System and the Free Software Movement”
+
