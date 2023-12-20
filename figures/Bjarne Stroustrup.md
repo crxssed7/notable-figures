@@ -8,7 +8,7 @@ Stroustrup was born in Aarhus, Denmark. His family was working class, and he att
 In 1979, he received his PhD in computer science from the University of Cambridge, where his research on distributed computing was supervised by David Wheeler.
 
 # Career and research
-In 1979, Stroustrup began his career as a member of technical staff in the Computer Science Research Center of Bell Labs in Murray Hill, New Jersey, USA. There, he began his work on C++ and programming techniques. Stroustrup was the head of AT&T Bell Labs' Large-scale Programming Research department, from its creation until late 2002. In 1993, he was made a Bell Labs fellow and in 1996, an AT&T Fellow.
+In 1979, Stroustrup began his career as a member of technical staff in the Computer Science Research Center of Bell Labs in Murray Hill, New Jersey. There, he began his work on C++ and programming techniques. Stroustrup was the head of AT&T Bell Labs' Large-scale Programming Research department, from its creation until late 2002. In 1993, he was made a Bell Labs fellow and in 1996, an AT&T Fellow.
 
 From 2002 to 2014, Stroustrup was the College of Engineering Chair Professor in Computer Science at Texas A&M University. From 2011, he was made a University Distinguished Professor.
 
