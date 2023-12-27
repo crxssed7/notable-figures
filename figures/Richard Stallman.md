@@ -133,7 +133,9 @@ Stallman, Richard M. (1980). EMACS: The Extensible, Customizable, Self-Documenti
 
 Stallman, Richard M. (2002). GNU Emacs Manual. Boston, Massachusetts, USA: GNU Press. ISBN 1-882114-85-X.
 
-Stallman, Richard M.; McGrath, Roland; Smith, Paul D. (2004). GNU Make: A Program for Directed Compilation. Boston, Massachusetts, USA: GNU Press. ISBN 1-882114-83-3.Selected essays
+Stallman, Richard M.; McGrath, Roland; Smith, Paul D. (2004). GNU Make: A Program for Directed Compilation. Boston, Massachusetts, USA: GNU Press. ISBN 1-882114-83-3.
+
+Stallman, Richard (2023). GNU C Language Introduction and Reference Manual. GNU.Selected essays
 
 
 
