@@ -31,7 +31,9 @@ In 1992, Thompson developed the UTF-8 encoding scheme together with Rob Pike. UT
 based on original research work done by Jim Johnston, under the guidance of Joe Hall and Jont Allen.
 
 ## 2000s
-In late 2000, Thompson retired from Bell Labs. He worked at Entrisphere, Inc. as a fellow until 2006 and now works at Google, first as a Distinguished Engineer and now as Google Advisor. Recent work has included the co-design of the Go programming language. Referring to himself along with the other original authors of Go, he states:
+In late 2000, Thompson retired from Bell Labs. 
+
+In 2004, he assisted in the implementation of Turochamp, a chess program Alan Turing devised in 1948, before any computers existed that could execute it.He worked at Entrisphere, Inc. as a fellow until 2006. As of 2024 he works at Google, first as a Distinguished Engineer and later as a Google Advisor. Recent work has included the co-design of the Go programming language. Referring to himself along with the other original authors of Go, he states:
 
 When the three of us [Thompson, Rob Pike, and Robert Griesemer] got started, it was pure research. The three of us got together and decided that we hated C++. [laughter] ... [Returning to Go,] we started off with the idea that all three of us had to be talked into every feature in the language, so there was no extraneous garbage put into the language for any reason.
 
