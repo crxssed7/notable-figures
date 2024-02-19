@@ -49,6 +49,8 @@ In 2018, he was made a Fellow of the Computer History museum.
 
 In 2019, he was awarded the honorary title of Dijkstra Fellow by CWI.
 
+In 2023, he was awarded the C&C Prize by NEC Corporation for developing the Python programming language.
+
 # References
 
 
