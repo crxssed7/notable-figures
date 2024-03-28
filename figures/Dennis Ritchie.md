@@ -1,7 +1,7 @@
 # Dennis Ritchie
 
 *Dennis MacAlistair Ritchie (September 9, 1941 – c. October 12, 2011) was an American computer scientist. He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B programming language. Ritchie and Thompson were awarded the Turing Award from the ACM in 1983, the Hamming Medal from the IEEE in 1990 and the National Medal of Technology from President Bill Clinton in 1999. 
-Ritchie was the head of Lucent Technologies System Software Research Department when he retired in 2007. He was also referred to by his username dmr.*
+Ritchie was the head of Lucent Technologies System Software Research Department when he retired in 2007.*
 
 # Early life and education
 Dennis Ritchie was born in Bronxville, New York. His father was Alistair E. Ritchie, a longtime Bell Labs scientist and co-author of The Design of Switching Circuits on switching circuit theory. As a child, Dennis moved with his family to Summit, New Jersey, where he graduated from Summit High School. He graduated from Harvard University with degrees in physics and applied mathematics in 1963.
