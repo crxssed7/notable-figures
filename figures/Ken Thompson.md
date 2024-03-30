@@ -37,9 +37,6 @@ In 2004, he assisted in the implementation of Turochamp, a chess program Alan Tu
 
 When the three of us [Thompson, Rob Pike, and Robert Griesemer] got started, it was pure research. The three of us got together and decided that we hated C++. [laughter] ... [Returning to Go,] we started off with the idea that all three of us had to be talked into every feature in the language, so there was no extraneous garbage put into the language for any reason.
 
-# Preferred programming set-up
-According to a 2009 interview, Thompson used a Linux-based operating system. A 2023 article commented on his long-time affinity for Apple Computers, but noted that he has recently moved on to a Raspbian device.
-
 # Awards
 
 
