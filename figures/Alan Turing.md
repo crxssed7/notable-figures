@@ -1,7 +1,6 @@
 # Alan Turing
 
-*Alan Mathison Turing  (; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. He is widely considered to be the father of theoretical computer science and artificial intelligence.Born in Maida Vale, London, Turing was raised in southern England. He graduated from King's College, Cambridge, with a degree in mathematics. Whilst he was a fellow at Cambridge, he published a proof demonstrating that some purely mathematical yes–no questions can never be answered by computation. He defined a Turing machine and proved that the halting problem for Turing machines is undecidable. In 1938, he earned his PhD from the Department of Mathematics at Princeton University.
-During the Second World War, Turing worked for the Government Code and Cypher School at Bletchley Park, Britain's codebreaking centre that produced Ultra intelligence. For a time he led Hut 8, the section that was responsible for German naval cryptanalysis. Here, he devised a number of techniques for speeding the breaking of German ciphers, including improvements to the pre-war Polish bomba method, an electromechanical machine that could find settings for the Enigma machine. Turing played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis powers in many crucial engagements, including the Battle of the Atlantic.After the war, Turing worked at the National Physical Laboratory, where he designed the Automatic Computing Engine, one of the first designs for a stored-program computer. In 1948, Turing joined Max Newman's Computing Machine Laboratory at the Victoria University of Manchester, where he helped develop the Manchester computers and became interested in mathematical biology. He wrote a paper on the chemical basis of morphogenesis and predicted oscillating chemical reactions such as the Belousov–Zhabotinsky reaction, first observed in the 1960s. Despite these accomplishments, Turing was never fully recognised in Britain during his lifetime because much of his work was covered by the Official Secrets Act.Turing was prosecuted in 1952 for homosexual acts. He accepted hormone treatment with DES, a procedure commonly referred to as chemical castration, as an alternative to prison. Turing died on 7 June 1954, at age 41, from cyanide poisoning. An inquest determined his death as a suicide, but it has been noted that the known evidence is also consistent with accidental poisoning. 
+*Alan Mathison Turing  (; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. He is widely considered to be the father of theoretical computer science and artificial intelligence.Born in Maida Vale, London, Turing was raised in southern England. He graduated from King's College, Cambridge, with a degree in mathematics. In 1938, he earned his PhD from the Department of Mathematics at Princeton University. During the Second World War, Turing worked for the Government Code and Cypher School at Bletchley Park, Britain's codebreaking centre that produced Ultra intelligence. For a time he led Hut 8, the section that was responsible for German naval cryptanalysis. Here, he devised a number of techniques for speeding the breaking of German ciphers, including improvements to the pre-war Polish bomba method, an electromechanical machine that could find settings for the Enigma machine. Turing played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis powers in many crucial engagements, including the Battle of the Atlantic.After the war, Turing worked at the National Physical Laboratory, where he designed the Automatic Computing Engine, one of the first designs for a stored-program computer. In 1948, Turing joined Max Newman's Computing Machine Laboratory at the Victoria University of Manchester, where he helped develop the Manchester computers and became interested in mathematical biology. He wrote a paper on the chemical basis of morphogenesis and predicted oscillating chemical reactions such as the Belousov–Zhabotinsky reaction, first observed in the 1960s. Despite these accomplishments, Turing was never fully recognised in Britain during his lifetime because much of his work was covered by the Official Secrets Act.Turing was prosecuted in 1952 for homosexual acts. He accepted hormone treatment with DES, a procedure commonly referred to as chemical castration, as an alternative to prison. Turing died on 7 June 1954, at age 41, from cyanide poisoning. An inquest determined his death as a suicide, but it has been noted that the known evidence is also consistent with accidental poisoning. 
 Following a public campaign in 2009, British prime minister Gordon Brown made an official public apology on behalf of the government for "the appalling way [Turing] was treated". Queen Elizabeth II granted a posthumous pardon in 2013. The term "Alan Turing law" is now used informally to refer to a 2017 law in the United Kingdom that retroactively pardoned men cautioned or convicted under historical legislation that outlawed homosexual acts.Turing has an extensive legacy with statues of him and many things named after him, including an annual award for computer science innovations. He appears on the current Bank of England £50 note, which was released on 23 June 2021 to coincide with his birthday. A 2019 BBC series, as voted by the audience, named him the greatest person of the 20th century.*
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg' width='300px'>
@@ -136,51 +135,36 @@ A posthumous pardon was not considered appropriate as Alan Turing was properly c
 
 John Leech, the MP for Manchester Withington (2005–15), submitted several bills to Parliament and led a high-profile campaign to secure the pardon. Leech made the case in the House of Commons that Turing's contribution to the war made him a national hero and that it was "ultimately just embarrassing" that the conviction still stood. Leech continued to take the bill through Parliament and campaigned for several years, gaining the public support of numerous leading scientists, including Stephen Hawking. At the British premiere of a film based on Turing's life, The Imitation Game, the producers thanked Leech for bringing the topic to public attention and securing Turing's pardon. Leech is now regularly described as the "architect" of Turing's pardon and subsequently the Alan Turing Law which went on to secure pardons for 75,000 other men and women convicted of similar crimes.On 26 July 2012, a bill was introduced in the House of Lords to grant a statutory pardon to Turing for offences under section 11 of the Criminal Law Amendment Act 1885, of which he was convicted on 31 March 1952. Late in the year in a letter to The Daily Telegraph, the physicist Stephen Hawking and 10 other signatories including the Astronomer Royal Lord Rees, President of the Royal Society Sir Paul Nurse, Lady Trumpington (who worked for Turing during the war) and Lord Sharkey (the bill's sponsor) called on Prime Minister David Cameron to act on the pardon request. The government indicated it would support the bill, and it passed its third reading in the House of Lords in October.At the bill's second reading in the House of Commons on 29 November 2013, Conservative MP Christopher Chope objected to the bill, delaying its passage. The bill was due to return to the House of Commons on 28 February 2014, but before the bill could be debated in the House of Commons, the government elected to proceed under the royal prerogative of mercy. On 24 December 2013, Queen Elizabeth II signed a pardon for Turing's conviction for "gross indecency", with immediate effect. Announcing the pardon, Lord Chancellor Chris Grayling said Turing deserved to be "remembered and recognised for his fantastic contribution to the war effort" and not for his later criminal conviction. The Queen officially pronounced Turing pardoned in August 2014. The Queen's action is only the fourth royal pardon granted since the conclusion of the Second World War. Pardons are normally granted only when the person is technically innocent, and a request has been made by the family or other interested party; neither condition was met in regard to Turing's conviction.In September 2016, the government announced its intention to expand this retroactive exoneration to other men convicted of similar historical indecency offences, in what was described as an "Alan Turing law". The Alan Turing law is now an informal term for the law in the United Kingdom, contained in the Policing and Crime Act 2017, which serves as an amnesty law to retroactively pardon men who were cautioned or convicted under historical legislation that outlawed homosexual acts. The law applies in England and Wales.On 19 July 2023, following an apology to LGBT veterans from the UK Government, Defence Secretary Ben Wallace suggested Turing should be honoured with a permanent statue on the fourth plinth of Trafalgar Square, describing Dr Turing as "probably the greatest war hero, in my book, of the Second World War, [whose] achievements shortened the war, saved thousands of lives, helped defeat the Nazis. And his story is a sad story of a society and how it treated him."
 
+# Publications
+Turing, A. M. (1938). "On Computable Numbers, with an Application to the Entscheidungsproblem: A correction". Proceedings of the London Mathematical Society. 2. 43 (published 1937): 544–46. doi:10.1112/plms/s2-43.6.544.
+
+Turing, Alan (1950). "Computing Machinery and Intelligence" (PDF). Mind. 49 (236): 433–460. doi:10.1093/mind/LIX.236.433. Archived (PDF) from the original on 9 October 2022.
+
 # See also
 Legacy of Alan Turing
 
 List of things named after Alan Turing
 
-# Notes and references
+# References
 
 
 ## Notes
 
 
-## References
+## Citations
 
 
-## Sources
+## Works cited
 
 
 # Further reading
 
 
 ## Articles
-Turing, Alan (1950). "Computing Machinery and Intelligence" (PDF). Mind. 49 (236): 433–460. doi:10.1093/mind/LIX.236.433. Archived (PDF) from the original on 9 October 2022.
 
-Copeland, B. Jack (ed.). "The Mind and the Computing Machine: Alan Turing and others". The Rutherford Journal.
-
-Copeland, B. Jack (ed.). "Alan Turing: Father of the Modern Computer". The Rutherford Journal.
-
-Hodges, Andrew (2007). "Alan Turing". In Edward N. Zalta (ed.). Stanford Encyclopedia of Philosophy (Winter 2009 ed.). Stanford University. Retrieved 10 January 2011.
-
-Hodges, Andrew (2004). "Turing, Alan Mathison". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/36578. (Subscription or UK public library membership required.)
-
-Gray, Paul (29 March 1999). "Computer Scientist: Alan Turing". Time. Archived from the original on 16 October 2007.
 
 ## Books
-Bernhardt, Chris (2017), Turing's Vision: The Birth of Computer Science, MIT Press, ISBN 978-0-262-53351-5
 
-Copeland, B. Jack; Bowen, Jonathan P.; Wilson, Robin; Sprevak, Mark (2017). The Turing Guide. Oxford University Press. ISBN 978-0-19-874783-3.
-
-Dyson, George (2012). Turing's Cathedral: The Origins of the Digital Universe. Vintage. ISBN 978-1-4000-7599-7.
-
-Gleick, James (2011). The Information: A History, a Theory, a Flood. New York: Pantheon. ISBN 978-0-375-42372-7.
-
-Hodges, Andrew (2014). Alan Turing: The Enigma. Princeton University Press. ISBN 978-0-691-16472-4. (originally published in 1983); basis of the film The Imitation Game
-
-Turing, Sara (2012). Alan M. Turing. Cambridge University Press. ISBN 978-1-107-02058-0. (originally published in 1959 by W. Heffer & Sons, Ltd)
 
 # External links
 
@@ -199,7 +183,7 @@ Alan Turing site maintained by Andrew Hodges including a short biography
 
 AlanTuring.net – Turing Archive for the History of Computing by Jack Copeland
 
-The Turing Archive – contains scans of some unpublished documents and material from the King's College, Cambridge archive
+The Turing Digital Archive – contains scans of some unpublished documents and material from the King's College, Cambridge archive
 
 Alan Turing Papers – University of Manchester Library, Manchester
 
