@@ -3,7 +3,9 @@
 *Bjarne Stroustrup (; Danish: [ˈpjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a Danish computer scientist, most notable for the invention and development of the C++ programming language. Stroustrup served as a visiting professor of computer science at Columbia University beginning in 2014, where he has been a full professor since 2022.*
 
 # Early life and education
-Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.He attended Aarhus University from 1969 to 1975 and graduated with a Candidatus Scientiarum in mathematics with computer science. His interests focused on microprogramming and machine architecture. He learned the fundamentals of object-oriented programming from its inventor, Kristen Nygaard, who frequently visited Aarhus.
+Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.
+
+He attended Aarhus University from 1969 to 1975 and graduated with a Candidatus Scientiarum in mathematics with computer science. His interests focused on microprogramming and machine architecture. He learned the fundamentals of object-oriented programming from its inventor, Kristen Nygaard, who frequently visited Aarhus.
 
 In 1979, he received his PhD in computer science from the University of Cambridge, where his research on distributed computing was supervised by David Wheeler.
 
@@ -12,10 +14,14 @@ In 1979, Stroustrup began his career as a member of technical staff in the Compu
 
 From 2002 to 2014, Stroustrup was the College of Engineering Chair Professor in Computer Science at Texas A&M University. From 2011, he was made a University Distinguished Professor.
 
-From January 2014 to April 2022, Stroustrup was a technical fellow and managing director in the technology division of Morgan Stanley in New York City and a visiting professor in computer science at Columbia University.As of July 2022, Stroustrup is a full professor of Computer Science at Columbia University.
+From January 2014 to April 2022, Stroustrup was a technical fellow and managing director in the technology division of Morgan Stanley in New York City and a visiting professor in computer science at Columbia University.
+
+As of July 2022, Stroustrup is a full professor of Computer Science at Columbia University.
 
 ## C++
-Stroustrup is best known for his work on C++. In 1979, he began developing C++ (initially called "C with Classes"). In his own words, he "invented C++, wrote its early definitions, and produced its first implementation [...] chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee." C++ was made generally available in 1985. For non-commercial use, the source code of the compiler and the foundation libraries was the cost of shipping (US$75); this was before Internet access was common. Stroustrup also published a textbook for the language in 1985, The C++ Programming Language.The key language-technical areas of contribution of C++ are:
+Stroustrup is best known for his work on C++. In 1979, he began developing C++ (initially called "C with Classes"). In his own words, he "invented C++, wrote its early definitions, and produced its first implementation [...] chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee." C++ was made generally available in 1985. For non-commercial use, the source code of the compiler and the foundation libraries was the cost of shipping (US$75); this was before Internet access was common. Stroustrup also published a textbook for the language in 1985, The C++ Programming Language.
+
+The key language-technical areas of contribution of C++ are:
 
 
 
@@ -33,10 +39,16 @@ Support for compile-time programming: template metaprogramming and compile-time 
 
 Direct use of machine and operating system resources.
 
-Concurrency support through libraries (where necessary, implemented using intrinsics).Stroustrup documented his principles guiding the design of C++ and the evolution of the language in his 1994 book, The Design and Evolution of C++, and three papers for ACM's History of Programming Languages conferences.Stroustrup was a founding member of the C++ standards committee (from 1989, it was an ANSI committee and from 1991 an ISO committee) and has remained an active member ever since. For 24 years he chaired the subgroup chartered to handle proposals for language extensions (Evolution Working Group).
+Concurrency support through libraries (where necessary, implemented using intrinsics).
+
+Stroustrup documented his principles guiding the design of C++ and the evolution of the language in his 1994 book, The Design and Evolution of C++, and three papers for ACM's History of Programming Languages conferences.
+
+Stroustrup was a founding member of the C++ standards committee (from 1989, it was an ANSI committee and from 1991 an ISO committee) and has remained an active member ever since. For 24 years he chaired the subgroup chartered to handle proposals for language extensions (Evolution Working Group).
 
 ## Awards and honors
 Selected honors
+
+
 
 2018: The Charles Stark Draper Prize from The US National Academy of Engineering for conceptualizing and developing the C++ programming language.
 
@@ -48,7 +60,9 @@ Selected honors
 
 2005: The William Procter Prize for Scientific Achievement from Sigma Xi (the scientific research society) as the first computer scientist ever.
 
-1993: The ACM Grace Murray Hopper award for his early work laying the foundations for the C++ programming language. Based on those foundations and Dr. Stroustrup's continuing efforts, C++ has become one of the most influential programming languages in the history of computing.Fellowships
+1993: The ACM Grace Murray Hopper award for his early work laying the foundations for the C++ programming language. Based on those foundations and Dr. Stroustrup's continuing efforts, C++ has become one of the most influential programming languages in the history of computing.
+
+Fellowships
 
 
 
@@ -60,7 +74,9 @@ Fellow of the Institute of Electrical and Electronics Engineers (IEEE) in 1994.
 
 Fellow of the Computer History Museum for his invention of the C++ programming language in 2015.
 
-Honorary Fellow of Churchill College, Cambridge in 2017.Honorary doctorates and professorships
+Honorary Fellow of Churchill College, Cambridge in 2017.
+
+Honorary doctorates and professorships
 
 
 
@@ -83,7 +99,11 @@ The C++ Programming Language (1st, 2nd, 3rd, and 4th edition)
 
 The Design and Evolution of C++
 
-The Annotated C++ Reference Manual.In all, these books have been translated into 21 languages.More than 100 academic articles, including:
+The Annotated C++ Reference Manual.
+
+In all, these books have been translated into 21 languages.
+
+More than 100 academic articles, including:
 
 
 
@@ -115,7 +135,9 @@ B. Stroustrup: What is Object-Oriented Programming? (1991 revised version). Proc
 
 B. Stroustrup: Data Abstraction in C. Bell Labs Technical Journal. vol 63. no 8 (Part 2), pp 1701–1732. October 1984. doi:10.1002/j.1538-7305.1984.tb00061.x
 
-B. Stroustrup: Classes: An Abstract Data Type Facility for the C Language. Sigplan Notices, January 1982. doi:10.1145/947886.947893More than a hundred technical reports for the C++ standards committee (WG21)
+B. Stroustrup: Classes: An Abstract Data Type Facility for the C Language. Sigplan Notices, January 1982. doi:10.1145/947886.947893
+
+More than a hundred technical reports for the C++ standards committee (WG21)
 
 # References
 
