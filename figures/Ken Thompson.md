@@ -99,8 +99,6 @@ Seibel, Peter (2009). Coders at Work – Reflections on the Craft of Programming
 # External links
 
 
-Ken Thompson, Bell Labs
-
 Reflections on Trusting Trust 1983 Turing Award Lecture
 
 Unix and Beyond: An Interview with Ken Thompson IEEE Computer Society
