@@ -168,7 +168,7 @@ In September 2023, while giving his keynote presentation at the GNU 40th anniver
 
 2004: Honorary professorship, from the Universidad Nacional de Ingeniería del Perú
 
-2007: Honorary professorship, from the Universidad Inca Garcilaso de la Vega Universidad Inca Garcilaso de la Vega
+2007: Honorary professorship, from the Inca Garcilaso de la Vega University
 
 2007: First Premio Internacional Extremadura al Conocimiento Libre
 
