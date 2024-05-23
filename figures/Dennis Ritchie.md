@@ -22,7 +22,7 @@ Ritchie created the C programming language and was one of the developers of the 
 
 Nowadays, the C language is widely used in application, operating system, and embedded system development, and its influence is seen in most modern programming languages. C is a low-level language with constructs closely translating to the hardware's instruction set. However, it is not tied to any particular hardware—making it easy to write programs on any machine that supports C. Moreover, C is a high-level language with constructs mapping to the application's data structures.
 
-C influenced several other languages and derivatives, such as C++, Objective-C used by Apple, C# used by Microsoft, and Java extensively used in corporate environment and also by Android. Ritchie and Thompson used C to write UNIX. Unix has been influential in establishing computing concepts and principles that have been widely adopted.
+C influenced several other languages and derivatives, such as C++, Objective-C used by Apple, C# used by Microsoft, and Java extensively used in corporate environments and also by Android. Ritchie and Thompson used C to write UNIX. Unix has been influential in establishing computing concepts and principles that have been widely adopted.
 
 In an interview from 1999, Ritchie clarified that he saw Linux and BSD operating systems as a continuation of the basis of the Unix operating system, and as derivatives of Unix:
 
