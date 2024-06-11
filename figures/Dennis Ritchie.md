@@ -84,7 +84,7 @@ Here are some of his most cited works:
 
 
 
-The C programming language, BW Kernighan, DM Ritchie, Prentice Hall, Englewood Cliffs, New Jersey (1978)
+The C Programming Language, BW Kernighan, DM Ritchie, Prentice Hall, Englewood Cliffs, New Jersey (1978)
 
 Programming languages, D Ritchie (1978) 
 
