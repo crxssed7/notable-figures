@@ -6,7 +6,7 @@ Gosling was elected a member of the National Academy of Engineering in 2004 for 
 # Early life
 Gosling attended William Aberhart High School in Calgary, Alberta. While in high school, he wrote some of the software to analyze data from the ISIS 2 satellite, working for the University of Calgary physics department.  He received a Bachelor of Science from the University of Calgary and his M.A. and Ph.D. from Carnegie Mellon University, all in computer science. He wrote a version of Emacs called Gosling Emacs (Gosmacs) while working toward his doctorate. He built a multi-processor version of Unix for a 16-way computer system while at Carnegie Mellon University, before joining Sun Microsystems. He also developed several compilers and mail systems there.
 
-Gosling has two children, Katie and Kelsey, who are half siblings from Gosling's two marriages.
+Gosling has two children, Katie and Kelsey, who are half siblings from his two marriages.
 
 # Career & contributions
 Gosling was with Sun Microsystems between 1984 and 2010 (26 years). At Sun he invented an early Unix windowing system called NeWS, which became a lesser-used alternative to the still used X Window System, because Sun did not give it an open source license.
