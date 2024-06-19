@@ -66,14 +66,12 @@ James Gosling, Henry McGilton, The Java language Environment: A white paper, Sun
 James Gosling, David S. H. Rosenthal, Michelle J. Arden, The NeWS Book: An Introduction to the Network/Extensible Window System (Sun Technical Reference Library), Springer, 1989, ISBN 0-387-96915-2
 
 # See also
-
-
 History of Java
 
-Fallacies of distributed computing
+# References
 
 
-
+# External links
 James Gosling's personal weblog
 
 Presentation by James Gosling about the origins of Java, from the JVM Languages Summit 2008
@@ -81,10 +79,4 @@ Presentation by James Gosling about the origins of Java, from the JVM Languages 
 The Process of Innovation – James Gosling's talk at Stanford University (video archive)
 
 James Gosling interview on Triangulation (TWiT.tv). Recorded 2016-04-11
-
-
-
-
-
-== References ==
 
