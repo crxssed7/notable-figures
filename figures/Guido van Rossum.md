@@ -18,7 +18,7 @@ He has worked for various research institutes, including the Centrum Wiskunde & 
 ## Google
 From 2005 to December 2012, Van Rossum worked at Google, where he spent half of his time developing the Python language. 
 
-At Google, he developed Mondrian, a web-based code review system written in Python and used within the company. He named the software after the Dutch painter Piet Mondrian. He named another related software project after Gerrit Rietveld, a Dutch designer. On 7 December 2012, Van Rossum left Google.
+At Google, he developed Mondrian, a web-based code review system written in Python and used within the company. He named the software after the Dutch painter Piet Mondrian. He named Rietveld, another related software project, after Gerrit Rietveld, a Dutch designer. On 7 December 2012, Van Rossum left Google.
 
 ## Dropbox
 In January 2013, Van Rossum started working at the cloud file storage company Dropbox.
