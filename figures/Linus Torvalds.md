@@ -106,7 +106,7 @@ Linus's law
 
 Tanenbaum–Torvalds debate
 
-List of computer pioneers
+List of pioneers in computer science
 
 # References
 
