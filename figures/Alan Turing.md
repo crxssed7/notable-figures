@@ -19,7 +19,7 @@ Julius's work with the ICS brought the family to British India, where his grandf
 
 Turing's father's civil service commission was still active during Turing's childhood years, and his parents travelled between Hastings in the United Kingdom and India, leaving their two sons to stay with a retired Army couple. At Hastings, Turing stayed at Baston Lodge, Upper Maze Hill, St Leonards-on-Sea, now marked with a blue plaque. The plaque was unveiled on 23 June 2012, the centenary of Turing's birth.
 
-Very early in life, Turing showed signs of the genius that he was later to display prominently. His parents purchased a house in Guildford in 1927, and Turing lived there during school holidays. The location is also marked with a blue plaque.
+Very early in life, Turing's parents purchased a house in Guildford in 1927, and Turing lived there during school holidays. The location is also marked with a blue plaque.
 
 ## School
 Turing's parents enrolled him at St Michael's, a primary school at 20 Charles Road, St Leonards-on-Sea, from the age of six to nine. The headmistress recognised his talent, noting that she has "...had clever boys and hardworking boys, but Alan is a genius".
