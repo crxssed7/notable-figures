@@ -1,6 +1,6 @@
 # Ken Thompson
 
-*Kenneth Lane Thompson (born February 4, 1943) is an American pioneer of computer science. Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating system. Since 2006, Thompson has worked at Google, where he co-developed the Go programming language.
+*Kenneth Lane Thompson (born February 4, 1943) is an American pioneer of computer science. Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C language, and was one of the creators and early developers of the Plan 9 operating system. Since 2006, Thompson has worked at Google, where he co-developed the Go language.
 Other notable contributions included his work on regular expressions and early computer text editors QED and ed, the definition of the UTF-8 encoding, and his work on computer chess that included the creation of endgame tablebases and the chess machine Belle. He won the Turing Award in 1983 with his long-term colleague Dennis Ritchie.*
 
 # Early life and education
@@ -8,7 +8,7 @@ Thompson was born in New Orleans, Louisiana. When asked how he learned to progra
 
 
 
-Thompson received a Bachelor of Science in 1965 and a master's degree in 1966, both in Electrical Engineering and Computer Sciences, from the University of California, Berkeley, where his master's thesis advisor was Elwyn Berlekamp.
+Thompson received a Bachelor of Science in 1965 and a master's degree in 1966, both in electrical engineering and computer sciences, from the University of California, Berkeley, where his master's thesis advisor was Elwyn Berlekamp.
 
 # Career and research
 Thompson was hired by Bell Labs in 1966. In the 1960s at Bell Labs, Thompson and Dennis Ritchie worked on the Multics operating system. While writing Multics, Thompson created the Bon programming language. He also created a video game called Space Travel. Later, Bell Labs withdrew from the MULTICS project. In order to go on playing the game, Thompson found an old PDP-7 machine and rewrote Space Travel on it. Eventually, the tools developed by Thompson became the Unix operating system: Working on a PDP-7, a team of Bell Labs researchers led by Thompson and Ritchie, and including Rudd Canaday, developed a hierarchical file system, the concepts of computer processes and device files, a command-line interpreter, pipes for easy inter-process communication, and some small utility programs. In 1970, Brian Kernighan suggested the name "Unix", in a pun on the name "Multics". After initial work on Unix, Thompson decided that Unix needed a system programming language and created B, a precursor to Ritchie's C.
