@@ -137,7 +137,7 @@ In March 2021, at LibrePlanet2021, Stallman announced his return to the FSF boar
 Multiple organizations criticized, defunded and/or cut ties with the FSF, including: Red Hat, the Free Software Foundation Europe, the Software Freedom Conservancy, SUSE, the OSI, the Document Foundation, the EFF, and the Tor Project. Debian declined to issue a statement after a community vote on the issue. However, the FSF claims this had relatively little financial impact, as it has stated that direct financial support from corporations accounted for less than 3% of its revenue in the most recent fiscal year.
 
 # Personal life
-Stallman resides in Boston, Massachusetts, having moved there after living in Cambridge for many years. He speaks English, French, Spanish and some Indonesian. He has said that he is "an atheist of Jewish ancestry" and often wears a button that reads "Impeach God". He denies having Asperger's, but has sometimes speculated whether he could have a "shadow" version of it. He has said he is voluntarily childless.
+Stallman resides in Boston, Massachusetts, having moved there after living in Cambridge for many years. He speaks English, French, Spanish and some Indonesian. He has said that he is "an atheist of Jewish ancestry" and often wears a button that reads "Impeach God". He denies having Asperger's, but has sometimes speculated whether he could have a "shadow" version of it. He has said he is childfree.
 
 Stallman has written a collection of filk music and parody songs.
 
