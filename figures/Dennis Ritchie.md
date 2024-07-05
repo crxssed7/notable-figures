@@ -1,6 +1,6 @@
 # Dennis Ritchie
 
-*Dennis MacAlistair Ritchie (September 9, 1941 – c. October 12, 2011) was an American computer scientist. He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B programming language. Ritchie and Thompson were awarded the Turing Award from the ACM in 1983, the Hamming Medal from the IEEE in 1990 and the National Medal of Technology from President Bill Clinton in 1999. 
+*Dennis MacAlistair Ritchie (September 9, 1941 – c. October 12, 2011) was an American computer scientist. He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B language. Ritchie and Thompson were awarded the Turing Award from the Association for Computing Machinery (ACM) in 1983, the IEEE Richard W. Hamming Medal from the Institute of Electrical and Electronics Engineers (IEEE) in 1990, and the National Medal of Technology from President Bill Clinton in 1999.
 Ritchie was the head of Lucent Technologies System Software Research Department when he retired in 2007.*
 
 # Early life and education
@@ -13,18 +13,18 @@ During the 1960s, Ritchie and Ken Thompson worked on the Multics operating syste
 
 During the 1970s, Ritchie collaborated with James Reeds and Robert Morris on a ciphertext-only attack on the M-209 US cipher machine that could solve messages of at least 2000–2500 letters. Ritchie relates that, after discussions with the National Security Agency, the authors decided not to publish it, as they were told that the principle applied to machines still in use by foreign governments.
 
-Ritchie was also involved with the development of the Plan 9 and Inferno operating systems, and the programming language Limbo.
+Ritchie was also involved with the development of the operating systems Plan 9 and Inferno, and the programming language Limbo.
 
 As part of an AT&T restructuring in the mid-1990s, Ritchie was transferred to Lucent Technologies, where he retired in 2007 as head of System Software Research Department.
 
 # C and Unix
 Ritchie created the C programming language and was one of the developers of the Unix operating system. With Brian Kernighan, he co-wrote the book The C Programming Language, which is often referred to as K&R after their initials. Ritchie worked together with Ken Thompson, who is credited with writing the original version of Unix; one of Ritchie's contributions to Unix was its porting to different machines and platforms. They were so influential on Research Unix that Doug McIlroy later wrote, "The names of Ritchie and Thompson may safely be assumed to be attached to almost everything not otherwise attributed."
 
-Nowadays, the C language is widely used in application, operating system, and embedded system development, and its influence is seen in most modern programming languages. C is a low-level language with constructs closely translating to the hardware's instruction set. However, it is not tied to any particular hardware—making it easy to write programs on any machine that supports C. Moreover, C is a high-level language with constructs mapping to the application's data structures.
+Nowadays, the C language is widely used in application, operating system, and embedded system development, and its influence is seen in most modern programming languages. C is a low-level language with constructs closely translating to the hardware's instruction set. However, it is not tied to any given hardware, making it easy to write programs on any machine that supports C. Moreover, C is a high-level programming language with constructs mapping to data structures in application software.
 
-C influenced several other languages and derivatives, such as C++, Objective-C used by Apple, C# used by Microsoft, and Java extensively used in corporate environments and also by Android. Ritchie and Thompson used C to write UNIX. Unix has been influential in establishing computing concepts and principles that have been widely adopted.
+C influenced several other languages and derivatives, such as C++, Objective-C used by Apple, C# used by Microsoft, and Java used in corporate environments extensively and by Android. Ritchie and Thompson used C to write Unix, which has been influential in establishing many computing concepts and principles that are adopted widely.
 
-In an interview from 1999, Ritchie clarified that he saw Linux and BSD operating systems as a continuation of the basis of the Unix operating system, and as derivatives of Unix:
+In an interview from 1999, Ritchie clarified that he saw Linux and Berkeley Software Distribution (BSD) operating systems as a continuation of the basis of the Unix operating system, and as derivatives of Unix:
 
 
 
@@ -61,17 +61,14 @@ Reflecting upon his death, a commentator compared the relative importance of Ste
 
 The Fedora 16 Linux distribution, which was released about a month after he died, was dedicated to his memory. FreeBSD 9.0, released January 12, 2012, was also dedicated in his memory.
 
-Asteroid 294727 Dennisritchie, discovered by astronomers Tom Glinos and David H. Levy in 2008, was named in his memory. The official naming citation was published by the Minor Planet Center on 7 February 2012 (M.P.C. 78272).
-
-# Gallery
-
+Asteroid 294727 Dennisritchie, discovered by astronomers Tom Glinos and David H. Levy in 2008, was named in his memory. The official naming citation was published by the Minor Planet Center on 7 February 2012 (Minor Planet Circulars (M.P.C.) 78272).
 
 # Notable works
-B programming language
+B language
 
-C programming language on which many currently used languages and technologies are based.
+C language on which many succeeding languages and technologies are based.
 
-Unix, a multiuser operating system. Several workalikes (commonly referred to as Unix-like systems) have been developed based on Unix's design. Some follow POSIX standards, again based on Unix.
+Unix multiuser operating system. Several workalikes (commonly referred to as Unix-like systems) have been developed based on Unix's design. Some follow POSIX standards, again based on Unix.
 
 Unix Programmer's Manual (1971)
 
