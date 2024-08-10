@@ -241,7 +241,7 @@ Richard Stallman at Curlie
 
 Works by Richard Stallman at Project Gutenberg
 
-Works by or about Richard Stallman at Internet Archive
+Works by or about Richard Stallman at the Internet Archive
 
 Essays on the Philosophy of the GNU Project, almost all written by Stallman
 
