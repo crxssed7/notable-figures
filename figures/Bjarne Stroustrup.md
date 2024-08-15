@@ -5,7 +5,7 @@
 # Early life and education
 Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.
 
-He attended Aarhus University from 1969 to 1975 and graduated with a Candidatus Scientiarum in mathematics with computer science. His interests focused on microprogramming and machine architecture. He learned the fundamentals of object-oriented programming from its inventor, Kristen Nygaard, who frequently visited Aarhus.Co
+He attended Aarhus University from 1969 to 1975 and graduated with a Candidatus Scientiarum in mathematics with computer science. His interests focused on microprogramming and machine architecture. He learned the fundamentals of object-oriented programming from its inventor, Kristen Nygaard, who frequently visited Aarhus.
 
 In 1979, he received his PhD in computer science from the University of Cambridge, where his research on distributed computing was supervised by David Wheeler.
 
