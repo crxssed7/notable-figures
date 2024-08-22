@@ -234,7 +234,7 @@ In September 2016, the government announced its intention to expand this retroac
 On 19 July 2023, following an apology to LGBT veterans from the UK Government, Defence Secretary Ben Wallace suggested Turing should be honoured with a permanent statue on the fourth plinth of Trafalgar Square, describing Turing as "probably the greatest war hero, in my book, of the Second World War, [whose] achievements shortened the war, saved thousands of lives, helped defeat the Nazis. And his story is a sad story of a society and how it treated him."
 
 # Publications
-Turing, A. M. (1938). "On Computable Numbers, with an Application to the Entscheidungsproblem: A correction". Proceedings of the London Mathematical Society. 2. 43 (published 1937): 544–46. doi:10.1112/plms/s2-43.6.544.
+Turing, A. M. (1938). "On Computable Numbers, with an Application to the Entscheidungsproblem: A correction". Proceedings of the London Mathematical Society. 2. 43 (1) (published 1937): 544–46. doi:10.1112/plms/s2-43.6.544.
 
 Turing, Alan (1950). "Computing Machinery and Intelligence" (PDF). Mind. 49 (236): 433–460. doi:10.1093/mind/LIX.236.433. Archived (PDF) from the original on 9 October 2022.
 
