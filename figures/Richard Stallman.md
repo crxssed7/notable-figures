@@ -84,6 +84,8 @@ For a period of time, Stallman used a notebook from the One Laptop per Child pro
 ## Copyright reduction
 Stallman has regularly given a talk entitled "Copyright vs. Community" where he reviews the state of digital rights management (DRM) and names many of the products and corporations which he boycotts. His approach to DRM is best summed up by the FSF Defective by Design campaign. In the talks, he makes proposals for a "reduced copyright" and suggests a 10-year limit on copyright. He suggests that, instead of restrictions on sharing, authors be supported using a tax, with revenues distributed among them based on cubic roots of their popularity to ensure that "fairly successful non-stars" receive a greater share than they do now (compare with private copying levy which is associated with proponents of strong copyright), or a convenient anonymous micropayment system for people to support authors directly. He indicates that no form of non-commercial sharing of copies should be considered a copyright violation. He has advocated for civil disobedience in a comment on Ley Sinde.
 
+He has reportedly refused to autograph anything bearing a '©' symbol, in line with his views.
+
 Stallman has helped and supported the International Music Score Library Project get back online, after it had been taken down on October 19, 2007 following a cease and desist letter from Universal Edition.
 
 
