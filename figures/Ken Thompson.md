@@ -38,7 +38,7 @@ Throughout the 1980s, Thompson and Ritchie continued revising Research Unix, whi
 Thompson tested early versions of the C++ programming language for Bjarne Stroustrup by writing programs in it, but later refused to work in C++ due to frequent incompatibilities between versions. In a 2009 interview, Thompson expressed a negative view of C++, stating, "It does a lot of things half well and it's just a garbage heap of ideas that are mutually exclusive."
 
 ## 1990s
-In 1992, Thompson developed the UTF-8 encoding scheme together with Rob Pike. UTF-8 encoding has since become the dominant character encoding for the World Wide Web, accounting for more than 90% of all web pages in 2019.
+In 1992, Thompson developed the UTF-8 encoding scheme together with Rob Pike. UTF-8 has since become the dominant Unicode encoding form for the World Wide Web, accounting for more than 90% of all web pages in 2019.
 
 In the 1990s, work began on the Inferno operating system, another research operating system that was based around a portable virtual machine. Thompson and Ritchie continued their collaboration with Inferno, along with other researchers at Bell Labs.
 
