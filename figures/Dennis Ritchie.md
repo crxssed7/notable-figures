@@ -100,8 +100,6 @@ List of pioneers in computer science
 
 Official website, Bell Labs
 
-Dennis Ritchie at Curlie
-
 "The C Family of Languages: Interview with Dennis Ritchie, Bjarne Stroustrup, and James Gosling" – article in Java Report, 5(7), July 2000 and C++ Report, 12(7), July/August 2000
 
 "The Guru" – article in Linux Magazine, June 2001[usurped]

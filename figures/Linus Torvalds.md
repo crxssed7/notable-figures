@@ -135,5 +135,3 @@ Linus Torvalds: Linux succeeded thanks to selfishness and trust
 
 No highs, no lows: Linus Torvalds on 25 years of Linux
 
-Lawsuits involving Torvalds at Curlie
-
