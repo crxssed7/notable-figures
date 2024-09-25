@@ -220,7 +220,7 @@ In Support of Richard Stallman, a website which advocates for Stallman.
 
 Richard Stallman at IMDb 
 
-Richard Stallman at Curlie
+‹The template Curlie is being considered for deletion.› Richard Stallman at Curlie
 
 Works by Richard Stallman at Project Gutenberg
 
