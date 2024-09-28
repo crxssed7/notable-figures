@@ -86,7 +86,7 @@ Stallman has regularly given a talk entitled "Copyright vs. Community" where he 
 
 He has reportedly refused to autograph anything bearing a '©' symbol, in line with his views.
 
-Stallman has helped and supported the International Music Score Library Project get back online, after it had been taken down on October 19, 2007 following a cease and desist letter from Universal Edition.
+Stallman has helped and supported the International Music Score Library Project get back online, after it had been taken down on October 19, 2007, following a cease and desist letter from Universal Edition.
 
 
 
@@ -220,7 +220,7 @@ In Support of Richard Stallman, a website which advocates for Stallman.
 
 Richard Stallman at IMDb 
 
-‹The template Curlie is being considered for deletion.› Richard Stallman at Curlie
+Richard Stallman at Curlie
 
 Works by Richard Stallman at Project Gutenberg
 
