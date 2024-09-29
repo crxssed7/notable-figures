@@ -142,5 +142,6 @@ More than a hundred technical reports for the C++ standards committee (WG21)
 # References
 
 
+# External links
  Media related to Bjarne Stroustrup at Wikimedia Commons
 
