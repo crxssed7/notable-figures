@@ -133,7 +133,7 @@ Stallman lives in Boston and moved there after living in Cambridge, Massaschuset
 
 Stallman has written a collection of filk music and parody songs.
 
-In September 2023, while giving his keynote presentation at the GNU 40th anniversary event, Stallman revealed he had been diagnosed with follicular lymphoma, a form of cancer, and said that his prognosis was good and he hopes to be around for years to come.
+In September 2023, while giving his keynote presentation at the GNU 40th anniversary event, Stallman revealed he had been diagnosed with follicular lymphoma, a form of cancer, and said that his prognosis was good and he hopes to be around for years to come. He later stated he was in remission.
 
 # Honors and awards
 1986: Honorary lifetime membership of the Chalmers University of Technology Computer Society
