@@ -220,8 +220,6 @@ In Support of Richard Stallman, a website which advocates for Stallman.
 
 Richard Stallman at IMDb 
 
-Richard Stallman at Curlie
-
 Works by Richard Stallman at Project Gutenberg
 
 Works by or about Richard Stallman at the Internet Archive
