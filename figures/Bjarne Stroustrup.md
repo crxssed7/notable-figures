@@ -1,6 +1,6 @@
 # Bjarne Stroustrup
 
-*Bjarne Stroustrup (; Danish: [ˈpjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a Danish computer scientist, known for the development of the C++ programming language. He led the Large-scale Programming Research department at Bell Labs, served as a professor of computer science at Texas A&M University, and spent over a decade at Morgan Stanley while also being a visiting professor at Columbia University. Since 2022 he has been a full professor at Columbia.*
+*Bjarne Stroustrup (; Danish: [ˈbjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a Danish computer scientist, known for the development of the C++ programming language. He led the Large-scale Programming Research department at Bell Labs, served as a professor of computer science at Texas A&M University, and spent over a decade at Morgan Stanley while also being a visiting professor at Columbia University. Since 2022 he has been a full professor at Columbia.*
 
 # Early life and education
 Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.
