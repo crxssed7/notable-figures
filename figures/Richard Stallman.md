@@ -214,6 +214,8 @@ Stallman, Richard M. (2015). Free Software, Free Society: Selected Essays of Ric
 
 
 # External links
+
+
 Official website 
 
 In Support of Richard Stallman, a website which advocates for Stallman.
@@ -227,6 +229,4 @@ Works by or about Richard Stallman at the Internet Archive
 Essays on the Philosophy of the GNU Project, almost all written by Stallman
 
 Free Software, Free Society: Selected Essays of Richard M. Stallman 3rd edition, free pdf book, written by Stallman
-
-A Whitean Reading of Richard Stallman: Literary Dimensions in “The GNU Operating System and the Free Software Movement”
 
