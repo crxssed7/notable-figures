@@ -82,7 +82,7 @@ In 1999, the Institute of Electrical and Electronics Engineers chose Thompson to
 In 2011, Thompson, along with Dennis Ritchie, was awarded the Japan Prize for Information and Communications for the pioneering work in the development of the Unix operating system.
 
 # Personal life
-Ken Thompson is married and has a son.
+Ken Thompson is married and has a son. He was a user of Apple products but later switched to Raspberry Pi OS due to issues he faced with Apple products.
 
 # See also
 Brian Kernighan
