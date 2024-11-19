@@ -1,6 +1,6 @@
 # James Gosling
 
-*James Gosling  (born 19 May 1955) is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.
+*James Arthur Gosling  (born 19 May 1955) is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.
 Gosling was elected a member of the National Academy of Engineering in 2004 for the conception and development of the architecture for the Java programming language and for contributions to window systems.*
 
 # Early life
