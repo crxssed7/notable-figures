@@ -1,6 +1,6 @@
 # Linus Torvalds
 
-*Linus Benedict Torvalds (  LEE-nəs TOR-vawldz, Finland Swedish: [ˈliːnʉs ˈtuːrvɑlds] ; born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel. He also created the distributed version control system Git.
+*Linus Benedict Torvalds (  LEE-nəs TOR-vawldz, Finland Swedish: [ˈliːnʉs ˈtuːrvɑlds] ; born 28 December 1969) is a Finnish-American software engineer who is the creator and lead developer of the Linux kernel. He also created the distributed version control system Git.
 He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by the Technology Academy Finland "in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award and the 2018 IEEE Masaru Ibuka Consumer Electronics Award.*
 
 # Life and career
@@ -20,7 +20,7 @@ On 5 January 1991 he purchased an Intel 80386-based IBM PC clone before receivin
 His academic career was interrupted after his first year of study when he joined the Finnish Navy Nyland Brigade in the summer of 1989, selecting the 11-month officer training program to fulfill the mandatory military service of Finland. He gained the rank of second lieutenant, with the role of an artillery observer.
 
 ## Linux
-The first Linux prototypes were publicly released in late 1991. Version 1.0 was released on 14 March 1994.
+The first Linux prototypes were publicly released on the Internet in late 1991 from an FTP server at his university. Version 1.0 was released on 14 March 1994.
 
 Torvalds first encountered the GNU Project in fall of 1991 when another Swedish-speaking computer science student, Lars Wirzenius, took him to the University of Technology to listen to free software guru Richard Stallman's speech. Torvalds would ultimately switch his original license (which forbade commercial use) to Stallman's GNU General Public License version 2 (GPLv2) for his Linux kernel after complaints of distributors being unable to recoup their costs due to a non-commercial clause.
 
