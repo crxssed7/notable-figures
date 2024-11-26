@@ -47,7 +47,7 @@ In 1995, Thompson collaborated on music compression with Sean Dorward,
 based on original research work done by Jim Johnston, under the guidance of Joe Hall and Jont Allen.
 
 ## 2000s
-In late 2000, Thompson retired from Bell Labs. 
+In late 2000, Thompson retired from Bell Labs.
 
 In 2004, he assisted in the implementation of Turochamp, a chess program Alan Turing devised in 1948, before any computers existed that could execute it.
 
