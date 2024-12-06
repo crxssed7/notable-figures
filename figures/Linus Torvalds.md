@@ -11,7 +11,7 @@ Torvalds was born in Helsinki, Finland, on 28 December 1969, the son of journali
 
 His interest in computers began with a VIC-20 at the age of 11 in 1981. He started programming for it in BASIC, then later by directly accessing the 6502 CPU in machine code (he did not utilize assembly language). He then purchased a Sinclair QL, which he modified extensively, especially its operating system. "Because it was so hard to get software for it in Finland", he wrote his own assembler and editor "(in addition to Pac-Man graphics libraries)" for the QL, and a few games. He wrote a Pac-Man clone, Cool Man. 
 
-Torvalds attended the University of Helsinki from 1988 to 1996, graduating with a master's degree in computer science from the NODES research group. His textbooks while there included Programming the 80386 by John H. Crawford and Patrick P. Gelsinger,  SYBEX, 1987 ISBN 0895883813, and The Design of the UNIX Operating System by Maurice J. Bach, Prentice-Hall, 1986 ISBN 0-13-201799-7.
+Torvalds attended the University of Helsinki from 1988 to 1996, graduating with a master's degree in computer science from the NODES research group. His textbooks while there included Programming the 80386 by John H. Crawford and Patrick P. Gelsinger (SYBEX, 1987, ISBN 0895883813), and The Design of the UNIX Operating System by Maurice J. Bach (Prentice-Hall, 1986, ISBN 0-13-201799-7).
 
 He bought computer science professor Andrew Tanenbaum's book Operating Systems: Design and Implementation, in which Tanenbaum describes MINIX, an educational stripped-down version of Unix. In 1990, Torvalds resumed his university studies, and was exposed to Unix for the first time in the form of a DEC MicroVAX running ULTRIX. His MSc thesis was titled Linux: A Portable Operating System.
 
