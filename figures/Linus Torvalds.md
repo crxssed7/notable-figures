@@ -38,6 +38,8 @@ In 2008, Torvalds stated that he used the Fedora Linux distribution because it h
 
 The Linux Foundation currently sponsors Torvalds so he can work full-time on improving Linux.
 
+In 2012, while giving a talk at Aalto University, Torvalds said "fuck you" after critiquing the company Nvidia, which specializes in GPU technology. In his ramble, he said Nvidia was, at the time, the single worst company he has dealt with in the development of the kernel. In the talk, he also discussed other elements of computing. 
+
 Torvalds is known for vocally disagreeing with other developers on the Linux kernel mailing list. Calling himself a "really unpleasant person", he explained, "I'd like to be a nice person and curse less and encourage people to grow rather than telling them they are idiots. I'm sorry—I tried, it's just not in me." His attitude, which he considers necessary for making his points clear, has drawn criticism from Intel programmer Sage Sharp and systemd developer Lennart Poettering, among others.
 
 On Sunday, 16 September 2018, the Linux kernel Code of Conflict was suddenly replaced by a new Code of Conduct based on the Contributor Covenant. Shortly thereafter, in the release notes for Linux 4.19-rc4, Torvalds apologized for his behavior, calling his personal attacks of the past "unprofessional and uncalled for" and announced a period of "time off" to "get some assistance on how to understand people's emotions and respond appropriately". It soon transpired that these events followed The New Yorker approaching Torvalds with a series of questions critical of his conduct. Following the release of Linux 4.19 on 22 October 2018, Torvalds returned to maintaining the kernel.
