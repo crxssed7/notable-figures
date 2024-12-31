@@ -87,6 +87,8 @@ Ken Thompson is married and has a son. He was a user of Apple products but later
 # See also
 Brian Kernighan
 
+Rob Pike
+
 Dennis Ritchie
 
 # References
