@@ -48,7 +48,7 @@ Code that is as understandable as plain English
 
 Suitability for everyday tasks, allowing for short development times
 
-In 2019, Python became the second most popular language on GitHub, the largest source code management website on the internet, after JavaScript. According to a programming language popularity survey it is consistently among the top 10 most mentioned languages in job postings. Furthermore, Python has been among the 10 most popular programming languages every year since 2004 according to the TIOBE Programming Community Index and got the number one spot on the index in October 2021.
+In 2019, Python became the second most popular language on GitHub, the largest source code management website on the internet, after JavaScript. In 2024 Python became the most used language on GitHub, overtaking JavaScript after a 10-year run as the most used language.  According to a programming language popularity survey it is consistently among the top 10 most mentioned languages in job postings. Furthermore, Python has been among the 10 most popular programming languages every year since 2004 according to the TIOBE Programming Community Index and got the number one spot on the index in October 2021.
 
 # Awards
 At the 2002 FOSDEM conference in Brussels, Van Rossum received the 2001 Award for the Advancement of Free Software from the Free Software Foundation (FSF) for his work on Python.
