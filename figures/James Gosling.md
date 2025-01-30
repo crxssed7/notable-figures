@@ -8,7 +8,7 @@ Gosling was born in Calgary, Alberta, to Joyce Morrison and Dave Gosling. He is 
 
 Gosling has two children, Katie and Kelsey, who are half siblings from his two marriages.
 
-# Career & contributions
+# Career and contributions
 Gosling was with Sun Microsystems between 1984 and 2010 (26 years). At Sun he invented an early Unix windowing system called NeWS, which became a lesser-used alternative to the still used X Window System, because Sun did not give it an open source license.
 
 He is known as the father of the Java programming language. He got the idea for the Java VM while writing a program to port software from a PERQ by translating Perq Q-Code to VAX assembler and emulating the hardware. He is generally credited with having invented the Java programming language in 1994.
