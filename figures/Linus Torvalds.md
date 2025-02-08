@@ -38,7 +38,7 @@ In 2008, Torvalds stated that he used the Fedora Linux distribution because it h
 
 The Linux Foundation currently sponsors Torvalds so he can work full-time on improving Linux.
 
-In 2012, while giving a talk at Aalto University, Torvalds said "fuck you" after critiquing the company Nvidia, which specializes in GPU technology. In his ramble, he said Nvidia was, at the time, the single worst company he has dealt with in the development of the kernel. In the talk, he also discussed other elements of computing.
+In 2012, while giving a talk at Aalto University, Torvalds said "fuck you" after critiquing the company Nvidia, which specializes in GPU technology. He said Nvidia was, at the time, the single worst company he has dealt with in the development of the kernel. In the talk, he also discussed other elements of computing.
 
 Torvalds is known for vocally disagreeing with other developers on the Linux kernel mailing list. Calling himself a "really unpleasant person", he explained, "I'd like to be a nice person and curse less and encourage people to grow rather than telling them they are idiots. I'm sorry—I tried, it's just not in me." His attitude, which he considers necessary for making his points clear, has drawn criticism from Intel programmer Sage Sharp and systemd developer Lennart Poettering, among others.
 
@@ -50,7 +50,7 @@ In 2024, Russian developers were excluded from the list of Linux kernel maintain
 Initially, Torvalds wanted to call the kernel he developed Freax (a combination of "free", "freak", and the letter X to indicate that it was a Unix-like system), but his friend Ari Lemmke, who administered the FTP server where the kernel was first hosted, named Torvalds' directory linux.
 
 # Authority and trademark
-As of 2006, approximately 2% of the Linux kernel was written by Torvalds himself. Despite the thousands who have contributed to it, his percentage is still one of the largest. However, he said in 2012 that his own personal contribution is now mostly merging code written by others, with little programming. He retains the highest authority to decide which new code is incorporated into the standard Linux kernel.
+As of 2006, approximately 2% of the Linux kernel was written by Torvalds. Despite the thousands who have contributed to it, his percentage is still one of the largest. However, he said in 2012 that his own personal contribution is now mostly merging code written by others, with little programming. He retains the highest authority to decide which new code is incorporated into the standard Linux kernel.
 
 Torvalds holds the Linux trademark and monitors its use, chiefly through the Linux Mark Institute.
 
@@ -59,7 +59,7 @@ Git
 
 
 
-On 3 April 2005, Torvalds began development on Git, version control software that later became widely used. On 26 July 2005, he turned over Git's maintenance to Junio Hamano, a major project contributor.
+On 3 April 2005, Torvalds began development on Git, version control software that later became widely used. On 26 July 2005, he handed over Git's maintenance to Junio Hamano, a major project contributor.
 
 
 
