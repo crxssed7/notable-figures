@@ -288,6 +288,10 @@ Jones, G. James (11 December 2001). "Alan Turing – Towards a Digital Mind: Par
 
 Sherborne School Archives – holds papers relating to Turing's time at Sherborne School
 
+Alan Turing and the ‘Nature of Spirit’ (Old Shirburnian Society)
+
+Alan Turing OBE, PhD, FRS (1912-1954) (Old Shirburnian Society)
+
 Alan Turing plaques recorded on openplaques.org
 
 Alan Turing archive on New Scientist
