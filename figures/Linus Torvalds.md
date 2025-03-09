@@ -94,7 +94,7 @@ InfoWorld presented him with the 2000 Award for Industry Achievement. In 2005, T
 
 In summer 2004, viewers of YLE (the Finnish Broadcasting Company) placed Torvalds 16th in the network's 100 Greatest Finns. In 2010, as part of a series called The Britannica Guide to the World's Most Influential People, Torvalds was listed among The 100 Most Influential Inventors of All Time (ISBN 9781615300037).
 
-On 11 October 2017, the Linux company SUSE made a song titled "Linus Said".
+On 11 October 2017, the Linux company SUSE made a song titled "Linus Said" about the origin of the Linux kernel..
 
 # Bibliography
 Torvalds, Linus; Diamond, David (2001). Just for Fun: The Story of an Accidental Revolutionary. New York City, United States: HarperCollins. ISBN 0-06-662072-4.
