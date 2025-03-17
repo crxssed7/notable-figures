@@ -36,7 +36,7 @@ In 2008, Torvalds stated that he used the Fedora Linux distribution because it h
 
 The Linux Foundation currently sponsors Torvalds so he can work full-time on improving Linux.
 
-In 2012, while giving a talk at Aalto University, Torvalds said "fuck you" after critiquing the company Nvidia, which specializes in GPU technology. He said Nvidia was, at the time, the single worst company he has dealt with in the development of the kernel. In the talk, he also discussed other elements of computing.
+In 2012, while giving a talk at Aalto University, Torvalds said "fuck you" and raised his middle finger after critiquing the company Nvidia, which specializes in GPU technology. He said Nvidia was, at the time, the single worst company he has dealt with in the development of the kernel. In the talk, he also discussed other elements of computing.
 
 Torvalds is known for vocally disagreeing with other developers on the Linux kernel mailing list. Calling himself a "really unpleasant person", he explained, "I'd like to be a nice person and curse less and encourage people to grow rather than telling them they are idiots. I'm sorry—I tried, it's just not in me." His attitude, which he considers necessary for making his points clear, has drawn criticism from Intel programmer Sage Sharp and systemd developer Lennart Poettering, among others.
 
