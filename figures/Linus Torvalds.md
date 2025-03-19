@@ -53,16 +53,12 @@ As of 2006, approximately 2% of the Linux kernel was written by Torvalds. Despit
 Torvalds holds the Linux trademark and monitors its use, chiefly through the Linux Mark Institute.
 
 # Other software
-Git
 
 
-
+## Git
 On 3 April 2005, Torvalds began development on Git, version control software that later became widely used. On 26 July 2005, he handed over Git's maintenance to Junio Hamano, a major project contributor.
 
-
-
-Subsurface
-
+## Subsurface
 Subsurface is software for logging and planning scuba dives, which Torvalds began developing in late 2011. It is free and open-source software distributed under the terms of the GNU General Public License version 2. Dirk Hohndel became its head maintainer in late 2012.
 
 # Personal life
