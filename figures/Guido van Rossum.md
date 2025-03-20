@@ -29,7 +29,7 @@ In October 2019, Van Rossum left Dropbox and officially retired.
 On 12 November 2020 Van Rossum announced that he was coming out of retirement to join the Developer Division at Microsoft. He currently holds the title Distinguished Engineer at Microsoft.
 
 # Python
-In December 1989, Van Rossum had been looking for a "'hobby' programming project that would keep [him] occupied during the week around Christmas" as his office was closed when he decided to write an interpreter for a "new scripting language [he] had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers". He attributes choosing the name "Python" to "being in a slightly irreverent mood (and a big fan of Monty Python's Flying Circus)".
+In December 1989, Van Rossum had been looking for a "'hobby' programming project that would keep [him] occupied during the week around Christmas" as his office was closed when he decided to write an interpreter for a "new scripting language [he] had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers". He chose the name Python for his programming language not because of the snake type but a BBC comedy series of the 1970s named "Monty Python's Flying Circus".
 
 He has explained that Python's predecessor, ABC, was inspired by SETL, noting that ABC co-developer Lambert Meertens had "spent a year with the SETL group at NYU before coming up with the final ABC design".
 
