@@ -16,7 +16,7 @@ From 2002 to 2014, Stroustrup was the College of Engineering Chair Professor in 
 
 From January 2014 to April 2022, Stroustrup was a technical fellow and managing director in the technology division of Morgan Stanley in New York City and a visiting professor in computer science at Columbia University.
 
-As of July 2022, Stroustrup is a full professor of Computer Science at Columbia University.
+As of July 2022, Stroustrup is a full professor of computer science at Columbia University.
 
 ## C++
 Stroustrup is best known for his work on C++. In 1979, he began developing C++ (initially called "C with Classes"). In his own words, he "invented C++, wrote its early definitions, and produced its first implementation [...] chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee." C++ was made generally available in 1985. For non-commercial use, the source code of the compiler and the foundation libraries was the cost of shipping (US$75); this was before Internet access was common. Stroustrup also published a textbook for the language in 1985, The C++ Programming Language.
