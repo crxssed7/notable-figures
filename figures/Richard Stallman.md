@@ -199,7 +199,7 @@ Stallman, Richard M. (2002). GNU Emacs Manual. Boston, Massachusetts, USA: GNU P
 
 Stallman, Richard M.; McGrath, Roland; Smith, Paul D. (2004). GNU Make: A Program for Directed Compilation. Boston, Massachusetts, USA: GNU Press. ISBN 1-882114-83-3.
 
-Stallman, Richard (2023). GNU C Language Introduction and Reference Manual. GNU.
+Stallman, Richard M.; Rothwell, Trevis; Beebe, Nelson (2023). GNU C Language Introduction and Reference Manual. GNU.
 
 Selected essays
 
