@@ -66,7 +66,7 @@ Linus Torvalds is married to Tove Torvalds (née Monni), a six-time Finnish nati
 
 Torvalds has described himself as "completely a-religious—atheist", adding, "I find that people seem to think religion brings morals and appreciation of nature. I actually think it detracts from both. It gives people the excuse to say, 'Oh, nature was just created,' and so the act of creation is seen to be something miraculous. I appreciate the fact that, 'Wow, it's incredible that something like this could have happened in the first place.'" He later added that while in Europe religion is mostly a personal issue, in the United States it has become very politicized. When discussing the issue of church and state separation, he said, "Yeah, it's kind of ironic that in many European countries, there is actually a kind of legal binding between the state and the state religion." In "Linus the Liberator", a story about the March LinuxWorld Conference, Torvalds says: "There are like two golden rules in life. One is 'Do unto others as you would want them to do unto you.' For some reason, people associate this with Christianity. I'm not a Christian. I'm agnostic. The other rule is 'Be proud of what you do.'"
 
-In 2004, Torvalds moved with his family from Silicon Valley to Dunthorpe, Oregon.
+In 2004, Torvalds moved with his family from Silicon Valley to Portland, Oregon.
 
 In 2010, Torvalds became a United States citizen and registered to vote in the United States. As of that year, he was unaffiliated with any U.S. political party, saying, "I have way too much personal pride to want to be associated with any of them, quite frankly."
 
