@@ -12,7 +12,7 @@ Stallman was born March 16, 1953 in New York City, to a family of Jewish heritag
 His first experience with actual computers was at the IBM New York Scientific Center when he was in high school. He was hired for the summer in 1970 after his senior year of high school, to write a numerical analysis program in Fortran. He completed the task after a couple of weeks ("I swore that I would never use FORTRAN again because I despised it as a language compared with other languages") and spent the rest of the summer writing a text editor in APL and a preprocessor for the PL/I programming language on the IBM System/360.
 
 ## Harvard University and MIT
-As a first-year student at Harvard University, in fall 1970, Stallman was known for his strong performance in Math 55. He was happy, "For the first time in my life, I felt I had found a home at Harvard."
+As a first-year student at Harvard University in fall 1970, Stallman was known for his strong performance in Math 55. He was happy, "For the first time in my life, I felt I had found a home at Harvard."
 
 In 1971, near the end of his first year at Harvard, he became a programmer at the MIT Artificial Intelligence Laboratory, and became a regular in the hacker community, where he was usually known by his initials, RMS, which he used in his computer accounts. Stallman received a bachelor's degree in physics (magna cum laude) from Harvard in 1974. He considered staying on at Harvard, but instead decided to enroll as a graduate student at the Massachusetts Institute of Technology (MIT). He pursued a doctorate in physics for one year, but left the program to focus on his programming at the MIT AI Laboratory.
 
