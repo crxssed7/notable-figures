@@ -13,7 +13,7 @@ He was involved with developing international standards in programming and infor
 
 From 2000 to 2002 he was president of the Association for Computing Machinery (ACM). For his work on computing, Bourne was awarded the ACM's Presidential Award in 2008 and was made a Fellow of the organization in 2005. He is also a Fellow of the Royal Astronomical Society.
 
-Bourne was chief technology officer at Icon Venture Partners, a venture capital firm based in Menlo Park, California through 2014. He is also chairperson of the editorial advisory board for ACM Queue, a magazine he helped found when he was president of the ACM.
+Bourne was chief technology officer at Icon Venture Partners, a venture capital firm based in Menlo Park, California through 2014. From 1990 to 1996, he served on the editorial board of UNIX Review magazine. Later, he was the chairperson of the editorial advisory board for ACM Queue, a magazine he helped found when he was president of the ACM.
 
 # References
 

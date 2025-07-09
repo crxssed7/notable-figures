@@ -7,7 +7,7 @@ Gosling was elected a member of the National Academy of Engineering in 2004 for 
 Gosling was born in Calgary, Alberta, to Joyce Morrison and Dave Gosling. He is of English, Welsh, Scottish, and Icelandic descent. Gosling attended William Aberhart High School. While in high school, he wrote some of the software to analyze data from the ISIS 2 satellite, working for the University of Calgary physics department. He received a Bachelor of Science from the University of Calgary and his M.A. and Ph.D. from Carnegie Mellon University, all in computer science. He wrote a version of Emacs called Gosling Emacs (Gosmacs) while working toward his doctorate. He built a multi-processor version of Unix for a 16-way computer system while at Carnegie Mellon University, before joining Sun Microsystems.
 
 # Career and contributions
-Gosling was with Sun Microsystems between 1984 and 2010 (26 years). At Sun he invented an early Unix windowing system called NeWS, which became a lesser-used alternative to the still used X Window System, because Sun did not give it an open source license.
+Gosling joined Sun Microsystems in 1984, where he worked for the next 26 years. At Sun he invented an early Unix windowing system called NeWS, which became a lesser-used alternative to the still used X Window System, because Sun did not give it an open source license.
 
 He is known as the father of the Java programming language. He got the idea for the Java VM while writing a program to port software from a PERQ by translating Perq Q-Code to VAX assembler and emulating the hardware. He is generally credited with having invented the Java programming language in 1994.
 
@@ -19,7 +19,7 @@ He left Sun Microsystems on April 2, 2010, after it was acquired by the Oracle C
 
 In March 2011, Gosling joined Google. Six months later, he followed his colleague Bill Vass and joined a startup called Liquid Robotics. In late 2016, Liquid Robotics was acquired by Boeing. Following the acquisition, Gosling left Liquid Robotics to work at Amazon Web Services as Distinguished Engineer in May 2017. He retired in July 2024.
 
-He is an advisor at the Scala company Lightbend, Independent Director at Jelastic, and Strategic Advisor for Eucalyptus, and is a board member of DIRTT Environmental Solutions.
+He has worked as an advisor at the Scala company Lightbend, Independent Director at Jelastic, and Strategic Advisor for Eucalyptus, and is a board member of DIRTT Environmental Solutions.
 
 # Awards
 For his achievement, the National Academy of Engineering in the United States elected him as a Foreign Associate member. 
