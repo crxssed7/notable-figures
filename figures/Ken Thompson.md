@@ -53,7 +53,10 @@ In late 2000, Thompson retired from Bell Labs.
 
 In 2004, he assisted in the implementation of Turochamp, a chess program Alan Turing devised in 1948, before any computers existed that could execute it.
 
-He worked at Entrisphere, Inc. as a fellow until 2006. As of 2024 he works at Google, first as a Distinguished Engineer and later as a Google Advisor. Recent work has included the co-design of the Go programming language. Referring to himself along with the other original authors of Go, he states:
+He worked at Entrisphere, Inc. as a fellow until 2006.
+
+## 2020s
+As of 2024 he works at Google, first as a Distinguished Engineer and later as a Google Advisor. Recent work has included the co-design of the Go programming language. Referring to himself along with the other original authors of Go, he states:
 
 
 
