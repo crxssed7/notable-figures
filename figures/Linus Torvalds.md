@@ -42,7 +42,7 @@ Torvalds is known for vocally disagreeing with other developers on the Linux ker
 
 On Sunday, 16 September 2018, the Linux kernel Code of Conflict was suddenly replaced by a new Code of Conduct based on the Contributor Covenant. Shortly thereafter, in the release notes for Linux 4.19-rc4, Torvalds apologized for his behavior, calling his personal attacks of the past "unprofessional and uncalled for" and announced a period of "time off" to "get some assistance on how to understand people's emotions and respond appropriately". It soon transpired that these events followed The New Yorker approaching Torvalds with a series of questions critical of his conduct. Following the release of Linux 4.19 on 22 October 2018, Torvalds returned to maintaining the kernel.
 
-In 2024, Russian developers were excluded from the list of Linux kernel maintainers. Torvalds commented: "I'm Finnish. Did you think I'd be supporting Russian aggression?"
+In 2024, amidst the Russian invasion of Ukraine, Russian developers were excluded from the list of Linux kernel maintainers. Torvalds commented: "I'm Finnish. Did you think I'd be supporting Russian aggression?"
 
 ### The Linus/Linux connection
 Initially, Torvalds wanted to call the kernel he developed Freax (a combination of "free", "freak", and the letter X to indicate that it was a Unix-like system), but his friend Ari Lemmke, who administered the FTP server where the kernel was first hosted, named Torvalds' directory linux.
