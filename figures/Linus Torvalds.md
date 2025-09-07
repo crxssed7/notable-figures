@@ -56,7 +56,7 @@ Torvalds holds the Linux trademark and monitors its use, chiefly through the Lin
 
 
 ## Git
-On 3 April 2005, Torvalds began development on Git, version control software that later became widely used. On 26 July 2005, he handed over Git's maintenance to Junio Hamano, a major project contributor.
+On 3 April 2005, Torvalds began development on Git, version control software that later became widely used.
 
 ## Subsurface
 Subsurface is software for logging and planning scuba dives, which Torvalds began developing in late 2011. It is free and open-source software distributed under the terms of the GNU General Public License version 2. Dirk Hohndel became its head maintainer in late 2012.
