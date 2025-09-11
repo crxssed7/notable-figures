@@ -112,9 +112,7 @@ Unix and Beyond: An Interview with Ken Thompson IEEE Computer Society
 
 Ken Thompson: A Brief Introduction The Linux Information Project (LINFO)
 
-Computer Chess Comes of Age: Photos Computer History Museum
-
-Computer Chess Comes of Age: Video of Interview with Ken Thompson Computer History Museum
+Computer Chess Comes of Age: Video of Interview with Ken Thompson at the Computer History Museum
 
 Reading Chess paper by HS Baird and Ken Thompson on optical character recognition
 

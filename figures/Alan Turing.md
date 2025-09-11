@@ -101,7 +101,7 @@ While working at Bletchley, Turing, who was a talented long-distance runner, occ
 
 I have such a stressful job that the only way I can get it out of my mind is by running hard; it's the only way I can get some release.
 
-Due to the problems of counterfactual history, it is hard to estimate the precise effect Ultra intelligence had on the war. However, official war historian Harry Hinsley estimated that this work shortened the war in Europe by more than two years but added the caveat that this did not account for the use of the atomic bomb and other eventualities.
+Due to the challenges answering questions concerning what an outcome would have been if a historical event did or did not occur (the realm of counterfactual history), it is hard to estimate the precise effect Ultra intelligence had on the war. However, official war historian Harry Hinsley estimated that this work shortened the war in Europe by more than two years. He added the caveat that this did not account for the use of the atomic bomb and other eventualities.
 
 At the end of the war, a memo was sent to all those who had worked at Bletchley Park, reminding them that the code of silence dictated by the Official Secrets Act did not end with the war but would continue indefinitely. Thus, even though Turing was appointed an Officer of the Order of the British Empire (OBE) in 1946 by King George VI for his wartime services, his work remained secret for many years.
 
