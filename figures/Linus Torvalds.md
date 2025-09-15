@@ -20,7 +20,7 @@ On 5 January 1991 he purchased an Intel 80386-based IBM PC clone before receivin
 ## Linux
 The first Linux prototypes were publicly released on the Internet in late 1991 from an FTP server at his university. Version 1.0 was released on 14 March 1994.
 
-Torvalds first encountered the GNU Project in the autumn of 1991 when another Swedish-speaking computer science student, Lars Wirzenius, took him to the University of Technology to listen to free software guru Richard Stallman's speech. Because of the talk and pressure from other contributors, Torvalds would ultimately switch his original license (which forbade commercial use) to Stallman's GNU General Public License version 2 (GPLv2) for his Linux kernel.
+Torvalds first encountered the GNU Project in the autumn of 1991 when another Swedish-speaking computer science student, Lars Wirzenius, took him to the University of Technology to listen to free-software guru Richard Stallman's speech. Because of the talk and pressure from other contributors, Torvalds would ultimately switch his original license (which forbade commercial use) to Stallman's GNU General Public License version 2 (GPLv2) for his Linux kernel.
 
 After a visit to Transmeta in late 1996, Torvalds accepted a position at the company in California, where he worked from February 1997 to June 2003. He then moved to the Open Source Development Labs, which has since merged with the Free Standards Group to become the Linux Foundation, under whose auspices he continues to work. In June 2004, Torvalds and his family moved to Dunthorpe, Oregon to be closer to the OSDL's headquarters in Beaverton.
 
