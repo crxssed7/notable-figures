@@ -16,6 +16,8 @@ From 2002 to 2014, Stroustrup was the College of Engineering Chair Professor in 
 
 From January 2014 to April 2022, Stroustrup was a technical fellow and managing director in the technology division of Morgan Stanley in New York City and a visiting professor in computer science at Columbia University.
 
+Since 2021, Bjarne Stroustrup has been a Technical Advisor to Metaspex, a company developing a new C++ programming approach for business applications.
+
 As of July 2022, Stroustrup is a full professor of computer science at Columbia University.
 
 ## C++
