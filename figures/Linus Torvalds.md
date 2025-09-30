@@ -1,7 +1,7 @@
 # Linus Torvalds
 
 *Linus Benedict Torvalds (born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel. He also created the distributed version control system Git.
-He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by the Technology Academy Finland "in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award and the 2018 IEEE Masaru Ibuka Consumer Electronics Award.*
+He was one of the recipients of the 2012 Millennium Technology Prize "in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award and the 2018 IEEE Masaru Ibuka Consumer Electronics Award.*
 
 # Life and career
 
@@ -56,7 +56,7 @@ Torvalds holds the Linux trademark and monitors its use, chiefly through the Lin
 
 
 ## Git
-On 3 April 2005, Torvalds began development on Git, a version control software that later became widely used.
+On 3 April 2005, Torvalds began development on Git, version control software that later became widely used.
 
 ## Subsurface
 Subsurface is software for logging and planning scuba dives, which Torvalds began developing in late 2011. It is free and open-source software distributed under the terms of the GNU General Public License version 2. Dirk Hohndel became its head maintainer in late 2012.
