@@ -11,7 +11,7 @@ Gosling joined Sun Microsystems in 1984, where he worked for the next 26 years. 
 
 He is known as the father of the Java programming language. He got the idea for the Java VM while writing a program to port software from a PERQ by translating Perq Q-Code to VAX assembler and emulating the hardware. He is generally credited with having invented the Java programming language in 1994.
 
-He created the original design of Java and implemented the language's original compiler and virtual machine. Gosling traces the origins of the approach to his early graduate student days, when he created a p-code virtual machine for the lab's DEC VAX computer, so that his professor could run programs written in UCSD Pascal.  In the work leading to Java at Sun, he saw that architecture-neutral execution for widely distributed programs could be achieved by implementing a similar philosophy:  always program for the same virtual machine.
+He created the original design of Java and implemented the language's original compiler and virtual machine. Gosling traces the origins of the approach to his early graduate student days, when he created a p-code virtual machine for the lab's DEC VAX computer, so that his professor could run programs written in UCSD Pascal. In the work leading to Java at Sun, he saw that architecture-neutral execution for widely distributed programs could be achieved by implementing a similar philosophy:  always program for the same virtual machine.
 
 Another contribution of Gosling's was co-writing the "bundle" program, known as "shar", a utility thoroughly detailed in Brian Kernighan and Rob Pike's book The Unix Programming Environment.
 
