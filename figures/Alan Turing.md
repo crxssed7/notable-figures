@@ -243,6 +243,8 @@ Legacy of Alan Turing
 
 List of things named after Alan Turing
 
+List of suicides of LGBTQ people
+
 # References
 
 
