@@ -245,6 +245,8 @@ List of things named after Alan Turing
 
 List of suicides of LGBTQ people
 
+List of pioneers in computer science
+
 # References
 
 
