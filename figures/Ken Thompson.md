@@ -96,6 +96,8 @@ Rob Pike
 
 Dennis Ritchie
 
+List of pioneers in computer science
+
 # References
 Sources
 

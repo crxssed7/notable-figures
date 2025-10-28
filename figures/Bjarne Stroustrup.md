@@ -141,6 +141,9 @@ B. Stroustrup: Classes: An Abstract Data Type Facility for the C Language. Sigpl
 
 More than a hundred technical reports for the C++ standards committee (WG21)
 
+# See also
+List of pioneers in computer science
+
 # References
 
 

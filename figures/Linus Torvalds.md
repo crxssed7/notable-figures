@@ -61,6 +61,9 @@ On 3 April 2005, Torvalds began development on Git, version control software tha
 ## Subsurface
 Subsurface is software for logging and planning scuba dives, which Torvalds began developing in late 2011. It is free and open-source software distributed under the terms of the GNU General Public License version 2. Dirk Hohndel became its head maintainer in late 2012.
 
+## Sparse
+It's a static analysis tool that was initially designed to only flag constructs that were likely to be of interest to kernel developers, such as the mixing of pointers to user and kernel address spaces.
+
 # Personal life
 Linus Torvalds is married to Tove Torvalds (née Monni), a six-time Finnish national karate champion, whom he met in late 1993. He was running introductory computer laboratory exercises for students and instructed the course attendees to send him an e-mail as a test, to which Tove responded with an e-mail asking for a date. They were later married and have three daughters, two of whom were born in the United States. The Linux kernel's reboot system call accepts their dates of birth (written in hexadecimal) as magic values.
 
