@@ -118,3 +118,5 @@ Computer Chess Comes of Age: Video of Interview with Ken Thompson at the Compute
 
 Reading Chess paper by HS Baird and Ken Thompson on optical character recognition
 
+"A Computing Legend Speaks". CHM. Oct 8, 2025. Retrieved Oct 28, 2025. – A 4½ hour oral history.
+
