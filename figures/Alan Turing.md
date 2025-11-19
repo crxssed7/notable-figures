@@ -179,6 +179,9 @@ In the 1940s, Turing became worried about losing his savings in the event of a G
 ## Engagement
 In 1941, Turing proposed marriage to Hut 8 colleague Joan Clarke, a fellow mathematician and cryptanalyst, but their engagement was short-lived. After admitting his homosexuality to his fiancée, who was reportedly "unfazed" by the revelation, Turing decided that he could not go through with the marriage.
 
+# Chess
+Turing invented a hybrid chess sport, earlier than chess boxing, referred to as round-the-house chess, one player makes a chess move, then that player runs around the house, and the other player must make a chess move before the first player returns.
+
 ## Homosexuality and indecency conviction
 In December 1951, Turing met Arnold Murray, a 19-year-old unemployed man. Turing was walking along Manchester's Oxford Road when he met Murray just outside the Regal Cinema and invited him to lunch. The two agreed to meet again and in January 1952 began an intimate relationship.  On 23 January, Turing's house in Wilmslow was burgled. Murray told Turing that he and the burglar were acquainted, and Turing reported the crime to the police. During the investigation, he acknowledged a sexual relationship with Murray. Homosexual acts were criminal offences in the United Kingdom at that time, and both men were charged with "gross indecency" under Section 11 of the Criminal Law Amendment Act 1885. Initial committal proceedings for the trial were held on 27 February during which Turing's solicitor "reserved his defence", i.e., did not argue or provide evidence against the allegations. The proceedings were held at the Sessions House in Knutsford.
 
