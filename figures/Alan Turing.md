@@ -241,6 +241,81 @@ In September 2016, the government announced its intention to expand this retroac
 
 On 19 July 2023, following an apology to LGBT veterans from the UK Government, Defence Secretary Ben Wallace suggested Turing should be honoured with a permanent statue on the fourth plinth of Trafalgar Square, describing Turing as "probably the greatest war hero, in my book, of the Second World War, [whose] achievements shortened the war, saved thousands of lives, helped defeat the Nazis. And his story is a sad story of a society and how it treated him."
 
+# Further reading
+
+
+## Articles
+Copeland, B. Jack (ed.). "The Mind and the Computing Machine: Alan Turing and others". The Rutherford Journal. Archived from the original on 18 March 2012. Retrieved 6 April 2009.
+
+Copeland, B. Jack (ed.). "Alan Turing: Father of the Modern Computer". The Rutherford Journal. Archived from the original on 24 January 2022. Retrieved 19 November 2013.
+
+Hodges, Andrew (2004). "Turing, Alan Mathison". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/36578. (Subscription, Wikipedia Library access or UK public library membership required.)
+
+Hodges, Andrew (2007). "Alan Turing". In Edward N. Zalta (ed.). Stanford Encyclopedia of Philosophy (Winter 2009 ed.). Stanford University. Retrieved 10 January 2011.
+
+Gray, Paul (29 March 1999). "Computer Scientist: Alan Turing". Time. Archived from the original on 16 October 2007.
+
+O'Connell, H; Fitzgerald, M (2003). "Did Alan Turing have Asperger's syndrome?". Irish Journal of Psychological Medicine. 20 (1). Irish Institute of Psychological Medicine: 28–31. doi:10.1017/s0790966700007503. ISSN 0790-9667. PMID 30440230. S2CID 53563123.
+
+O'Connor, John J.; Robertson, Edmund F. "Alan Mathison Turing". MacTutor History of Mathematics Archive. University of St Andrews.
+
+## Books
+Agar, Jon (2001). Turing and the Universal Machine. Duxford: Icon. ISBN 978-1-84046-250-0.
+
+Agar, Jon (2003). The government machine: a revolutionary history of the computer. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01202-7.
+
+Babbage, Charles (2016) [1864]. Campbell-Kelly, Martin (ed.). The Works of Charles Babbage: Passages from the Life of a Philosopher. Oxford: Routledge. ISBN 978-1-138-76370-8.
+
+Beniger, James (1986). The control revolution: technological and economic origins of the information society. Cambridge, Massachusetts: Harvard University Press. ISBN 978-0-674-16986-9.
+
+Bernhardt, Chris (2017). Turing's Vision: The Birth of Computer Science. MIT Press. ISBN 978-0-262-53351-5.
+
+Bodanis, David (2005). Electric Universe: How Electricity Switched on the Modern World. New York: Three Rivers Press. ISBN 978-0-307-33598-2. OCLC 61684223.
+
+Bruderer, Herbert (2012). "Die Maschinen von Charles Babbage, Alan Turing und John von Neumann". Konrad Zuse und die Schweiz. Wer hat den Computer erfunden? (in German). München: Oldenbourg Wissenschaftsverlag. doi:10.1524/9783486716658. ISBN 978-3-486-71366-4.
+
+Campbell-Kelly, Martin; Aspray, William (1996). Computer: A History of the Information Machine. New York: Basic Books. ISBN 978-0-465-02989-1.
+
+Ceruzzi, Paul E. (1998). A History of Modern Computing. Cambridge, Massachusetts, and London: MIT Press. ISBN 978-0-262-53169-6.
+
+Chandler, Alfred (1977). The Visible Hand: The Managerial Revolution in American Business. Cambridge, Massachusetts: Belknap Press. ISBN 978-0-674-94052-9.
+
+Cooper, S. Barry; van Leeuwen, Jan (2013). Alan Turing: His Work and Impact. New York: Elsevier. ISBN 978-0-12-386980-7.
+
+Copeland, B. Jack, ed. (2005). Alan Turing's Automatic Computing Engine. Oxford: Oxford University Press. ISBN 978-0-19-856593-2. OCLC 224640979.
+
+Copeland, B. Jack; Bowen, Jonathan P.; Wilson, Robin; Sprevak, Mark (2017). The Turing Guide. Oxford University Press. ISBN 978-0-19-874783-3.
+
+Dyson, George (2012). Turing's Cathedral: The Origins of the Digital Universe. Vintage. ISBN 978-1-4000-7599-7.
+
+Edwards, Paul N (1996). The closed world: computers and the politics of discourse in Cold War America. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-55028-4.
+
+Gleick, James (2011). The Information: A History, a Theory, a Flood. New York: Pantheon. ISBN 978-0-375-42372-7.
+
+Hochhuth, Rolf (1988). Alan Turing: en berättelse. Symposion. ISBN 978-91-7868-109-9.
+
+Levin, Janna (2006). A Madman Dreams of Turing Machines. New York: Knopf. ISBN 978-1-4000-3240-2.
+
+Lubar, Steven (1993). Infoculture. Boston, Massachusetts and New York: Houghton Mifflin. ISBN 978-0-395-57042-5.
+
+Petzold, Charles (2008). The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine. Indianapolis: Wiley Publishing. ISBN 978-0-470-22905-7.
+
+Smith, Michael (1998). The Secrets of Station X: How the Bletchley Park codebreakers helped win the war. Boxtree. ISBN 978-0752221892.
+
+Smith, Roger (1997). Fontana History of the Human Sciences. London: Fontana.
+
+Turing, Sara Stoney (1959). Alan M Turing. W Heffer. Turing's mother, who survived him by many years, wrote this 157-page biography of her son, glorifying his life. It was published in 1959, and so could not cover his war work. Scarcely 300 copies were sold (Sara Turing to Lyn Newman, 1967, Library of St John's College, Cambridge). The six-page foreword by Lyn Irvine includes reminiscences and is more frequently quoted. It was re-published by Cambridge University Press in 2012, to honour the centenary of his birth, and included a new foreword by Martin Davis, as well as a never-before-published memoir by Turing's older brother John F. Turing.
+
+Turing, Sara (2012). Alan M. Turing. Cambridge University Press. ISBN 978-1-107-02058-0. (originally published in 1959 by W. Heffer & Sons, Ltd)
+
+Weizenbaum, Joseph (1976). Computer Power and Human Reason. London: W.H. Freeman. ISBN 0-7167-0463-3.
+
+Whitemore, Hugh; Hodges, Andrew (1988). Breaking the code. S. French. This 1986 Hugh Whitemore play tells the story of Turing's life and death. In the original West End and Broadway runs, Derek Jacobi played Turing and he recreated the role in a 1997 television film based on the play made jointly by the BBC and WGBH, Boston. The play is published by Amber Lane Press, Oxford, ASIN: B000B7TM0Q
+
+Williams, Michael R. (1985). A History of Computing Technology. Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-8186-7739-2.
+
+Yates, David M. (1997). Turing's Legacy: A history of computing at the National Physical Laboratory 1945–1995. London: London Science Museum. ISBN 978-0-901805-94-2. OCLC 123794619.
+
 # See also
 Legacy of Alan Turing
 
@@ -250,57 +325,69 @@ List of suicides of LGBTQ people
 
 List of pioneers in computer science
 
-# References
-
-
-## Notes
-
-
-## Citations
-
-
 ## Works cited
 
 
-# Further reading
+# Notes
 
 
-## Articles
-
-
-## Books
+# References
 
 
 # External links
 
 
-Oral history interview with Nicholas C. Metropolis, Charles Babbage Institute, University of Minnesota. Metropolis was the first director of computing services at Los Alamos National Laboratory; topics include the relationship between Turing and John von Neumann
+Alan Turing archive on New Scientist
 
-How Alan Turing Cracked The Enigma Code Imperial War Museums
+Alan Turing plaques on openplaques.org
 
-Alan Turing Year Archived 17 February 2019 at the Wayback Machine
+Papers
 
-CiE 2012: Turing Centenary Conference
+
+
+Alan Turing Papers – University of Manchester Library
 
 Science in the MakingArchived 4 April 2023 at the Wayback Machine Alan Turing's papers in the Royal Society's archives
 
-Alan Turing site maintained by Andrew Hodges including a short biography
+The Turing Digital Archive – contains scans of some unpublished documents and material - King's College, Cambridge
+
+Interviews
+
+
+
+Oral history interview with Nicholas C. Metropolis, Charles Babbage Institute, University of Minnesota. Metropolis was the first director of computing services at Los Alamos National Laboratory; topics include the relationship between Turing and John von Neumann
+
+Articles
+
+
+
+How Alan Turing Cracked The Enigma Code Imperial War Museums
+
+Jones, G. James (11 December 2001). "Alan Turing – Towards a Digital Mind: Part 1". System Toolbox. The Binary Freedom Project. Archived from the original on 3 August 2007.
+
+Websites
+
+
 
 AlanTuring.net – Turing Archive for the History of Computing by Jack Copeland
 
-The Turing Digital Archive – contains scans of some unpublished documents and material from the King's College, Cambridge archive
+Alan Turing site maintained by Andrew Hodges including a short biography
 
-Alan Turing Papers – University of Manchester Library, Manchester
+Events
 
-Jones, G. James (11 December 2001). "Alan Turing – Towards a Digital Mind: Part 1". System Toolbox. The Binary Freedom Project. Archived from the original on 3 August 2007.
+
+
+CiE 2012: Turing Centenary Conference
+
+Alan Turing Year Archived 17 February 2019 at the Wayback Machine
+
+Sherborne School
+
+
 
 Sherborne School Archives – holds papers relating to Turing's time at Sherborne School
 
 Alan Turing and the ‘Nature of Spirit’ (Old Shirburnian Society)
 
 Alan Turing OBE, PhD, FRS (1912-1954) (Old Shirburnian Society)
-
-Alan Turing plaques recorded on openplaques.org
-
-Alan Turing archive on New Scientist
 
