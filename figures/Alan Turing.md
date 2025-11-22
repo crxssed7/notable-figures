@@ -179,7 +179,7 @@ In the 1940s, Turing became worried about losing his savings in the event of a G
 ## Engagement
 In 1941, Turing proposed marriage to Hut 8 colleague Joan Clarke, a fellow mathematician and cryptanalyst, but their engagement was short-lived. After admitting his homosexuality to his fiancée, who was reportedly "unfazed" by the revelation, Turing decided that he could not go through with the marriage.
 
-# Chess
+## Chess
 Turing invented a hybrid chess sport, earlier than chess boxing, referred to as round-the-house chess, one player makes a chess move, then that player runs around the house, and the other player must make a chess move before the first player returns.
 
 ## Homosexuality and indecency conviction
