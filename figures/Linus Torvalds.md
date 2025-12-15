@@ -1,7 +1,7 @@
 # Linus Torvalds
 
 *Linus Benedict Torvalds (born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991. He also created the distributed version control system Git.
-He was one of the recipients of the 2012 Millennium Technology Prize "in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award and the 2018 IEEE Masaru Ibuka Consumer Electronics Award.*
+Torvalds was one of the recipients of the 2012 Millennium Technology Prize "in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award and the 2018 IEEE Masaru Ibuka Consumer Electronics Award.*
 
 # Life and career
 
