@@ -66,6 +66,8 @@ James Gosling, David S. H. Rosenthal, Michelle J. Arden, The NeWS Book: An Intro
 # See also
 History of Java
 
+Article on James Gosling in The Canadian Encyclopedia
+
 # References
 
 
