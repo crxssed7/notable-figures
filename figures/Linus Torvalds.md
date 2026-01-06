@@ -97,8 +97,6 @@ In summer 2004, viewers of YLE (the Finnish Broadcasting Company) placed Torvald
 
 On 11 October 2017, the Linux company SUSE made a song titled "Linus Said" about the origin of the Linux kernel.
 
-On 1st December 2025, he appeared in a video on the Linus Tech Tips YouTube channel.
-
 # Bibliography
 Torvalds, Linus; Diamond, David (2001). Just for Fun: The Story of an Accidental Revolutionary. New York City, United States: HarperCollins. ISBN 0-06-662072-4.
 
