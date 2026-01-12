@@ -55,7 +55,7 @@ At the 2002 FOSDEM conference in Brussels, Van Rossum received the 2001 Award fo
 
 In May 2003, he received a NLUUG Award.
 
-In 2006, he was recognized as a Distinguished Engineer by the Association for Computing Machinery.
+In 2006, he was recognized as an ACM Distinguished Engineer.
 
 In 2018, he was made a Fellow of the Computer History museum.
 
