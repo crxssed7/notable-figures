@@ -75,7 +75,7 @@ In 1983, Thompson and Ritchie jointly received the Turing Award "for their devel
 In 1990, both Thompson and Dennis Ritchie received the IEEE Richard W. Hamming Medal from the Institute of Electrical and Electronics Engineers (IEEE), "for the origination of the UNIX operating system and the C programming language".
 
 ## Fellow of the Computer History Museum
-In 1997, both Thompson and Ritchie were inducted as Fellows of the Computer History Museum for "the co-creation of the UNIX operating system, and for development of the C programming language".
+In 1997, both Thompson and Ritchie were inducted as Fellows of the Computer History Museum for "the co-creation of the UNIX operating system, and for development of the C programming language". In 2024, he recorded an extensive oral history for the museum.
 
 ## National Medal of Technology
 On April 27, 1999, Thompson and Ritchie jointly received the 1998 National Medal of Technology from President Bill Clinton for co-inventing the UNIX operating system and the C programming language which together have "led to enormous advances in computer hardware, software, and networking systems and stimulated growth of an entire industry, thereby enhancing American leadership in the Information Age".
