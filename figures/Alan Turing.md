@@ -340,7 +340,7 @@ List of pioneers in computer science
 
 Alan Turing archive on New Scientist
 
-Alan Turing plaques on openplaques.org
+Alan Turing plaques Archived 24 April 2024 at the Wayback Machine on openplaques.org
 
 Papers
 
