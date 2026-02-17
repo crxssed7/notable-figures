@@ -32,7 +32,7 @@ His personal mascot is a penguin nicknamed Tux, which has been widely adopted by
 
 Although Torvalds believes "open source is the only right way to do software", he also has said that he uses the "best tool for the job", even if that includes proprietary software. He was criticized for his use and alleged advocacy of the proprietary BitKeeper software for version control in the Linux kernel. He subsequently wrote a free-software replacement for it called Git.
 
-In 2000, the CEO of Apple Steve Jobs, proposed to Linus to work on macOS, requiring him to stop his work on the Linux kernel. Linus refused, also arguing that Mach kernel was too different from the Linux one.
+In 2000, the CEO of Apple Steve Jobs, proposed to Linus to work on macOS, requiring him to stop his work on the Linux kernel. Linus refused, also arguing that Mach kernel was too different from Linux.
 
 In 2008, Torvalds stated that he used the Fedora Linux distribution because it had fairly good support for the PowerPC processor architecture, which he favored at the time. He confirmed this in a 2012 interview. Torvalds abandoned GNOME for a while after the release of GNOME 3.0, saying, "The developers have apparently decided that it's 'too complicated' to actually do real work on your desktop, and have decided to make it really annoying to do". He then switched to Xfce. In 2013, Torvalds resumed using GNOME, noting that "they have extensions now that are still much too hard to find; but with extensions you can make your desktop look almost as good as it used to look two years ago".
 
