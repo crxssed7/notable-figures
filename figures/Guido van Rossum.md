@@ -10,7 +10,7 @@ Van Rossum lives in Belmont, California, with his wife, Kim Knapp, and their son
 # Work
 
 
-## Centrum Wiskunde & Informatica
+## Centrum Wiskunde and Informatica
 While working at the Centrum Wiskunde & Informatica (CWI), Van Rossum wrote and contributed a glob() routine to BSD Unix in 1986 and helped develop the ABC programming language. He once stated, "I try to mention ABC's influence because I'm indebted to everything I learned during that project and to the people who worked on it." He also created Grail, an early web browser written in Python, and engaged in discussions about the HTML standard.
 
 He has worked for various research institutes, including the Centrum Wiskunde & Informatica (CWI) in the Netherlands, the U.S. National Institute of Standards and Technology (NIST), and the Corporation for National Research Initiatives (CNRI). In May 2000, he left CNRI along with three other Python core developers to work for tech startup BeOpen.com, which subsequently collapsed by October of the same year. From late 2000 until 2003 he worked for Zope Corporation. In 2003 Van Rossum left Zope for Elemental Security. While there he worked on a custom programming language for the organization.
@@ -79,9 +79,9 @@ Computer Programming for Everybody
 
 Guido van Rossum Interview on FLOSS Weekly
 
-Guido van Rossum interview - Workspiration.org
+Guido van Rossum interview – Workspiration.org
 
-Guido van Rossum on Python Interview - Computerworld
+Guido van Rossum on Python Interview – Computerworld
 
 Guido van Rossum Run your web applications on Google's infrastructure — Google App Engine technical talk at Stanford University. (video archive)
 
