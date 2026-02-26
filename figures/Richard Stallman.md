@@ -36,8 +36,6 @@ In February 1984, Stallman quit his job at MIT to work full-time on the GNU proj
 # GNU project
 Stallman announced the plan for the GNU operating system in September 1983 on several ARPANET mailing lists and USENET. He started the project on his own and describes: "As an operating system developer, I had the right skills for this job. So even though I could not take success for granted, I realized that I was elected to do the job. I chose to make the system compatible with Unix so that it would be portable, and so that Unix users could easily switch to it."
 
-
-
 In 1985, Stallman published the GNU Manifesto, which outlined his motivation for creating a free operating system called GNU, which would be compatible with Unix. The name GNU is a recursive acronym for "GNU's Not Unix". Soon after, he started a nonprofit corporation called the Free Software Foundation to employ free software programmers and provide a legal infrastructure for the free software movement. Stallman was the nonsalaried president of the FSF, which is a 501(c)(3) nonprofit organization founded in Massachusetts.
 
 Stallman popularized the concept of copyleft, a legal mechanism to protect the modification and redistribution rights for free software. It was first implemented in the GNU Emacs General Public License, and in 1989 the first program-independent GNU General Public License (GPL) was released. By then, much of the GNU system had been completed.
