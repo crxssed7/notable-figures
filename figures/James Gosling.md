@@ -21,6 +21,8 @@ In March 2011, Gosling joined Google. Six months later, he followed his colleagu
 
 He has worked as an advisor at the Scala company Lightbend, Independent Director at Jelastic, and Strategic Advisor for Eucalyptus, and is a board member of DIRTT Environmental Solutions.
 
+On July 2nd, 2024, Gosling announced he had officially retired.
+
 # Awards
 For his achievement, the National Academy of Engineering in the United States elected him as a Foreign Associate member. 
 
