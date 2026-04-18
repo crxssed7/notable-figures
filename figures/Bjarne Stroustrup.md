@@ -48,7 +48,7 @@ Stroustrup documented his principles guiding the design of C++ and the evolution
 Stroustrup was a founding member of the C++ standards committee (from 1989, it was an ANSI committee and from 1991 an ISO committee) and has remained an active member ever since. For 24 years he chaired the subgroup chartered to handle proposals for language extensions (Evolution Working Group).
 
 ## Awards and honors
-Selected honors
+Selected honors:
 
 
 
