@@ -190,6 +190,8 @@ Turing was later convinced by the advice of his brother and his own solicitor, a
 
 Turing's conviction led to the removal of his security clearance and barred him from continuing with his cryptographic consultancy for GCHQ, the British signals intelligence agency that had evolved from GC&CS in 1946, though he kept his academic post. His trial took place only months after the defection to the Soviet Union of Guy Burgess and Donald Maclean, in summer 1951, after which the Foreign Office started to consider anyone known to be homosexual as a potential security risk.
 
+
+
 Turing was denied entry into the United States after his conviction in 1952, but was free to visit other European countries. In the summer of 1952 he visited Norway which was more tolerant of homosexuals. Among the various men he met there was one named Kjell Carlson. Kjell intended to visit Turing in the UK but the authorities intercepted Kjell's postcard detailing his travel arrangements and were able to intercept and deport him before the two could meet. It was also during this time that Turing started consulting a psychiatrist, Franz Greenbaum, with whom he got on well and who subsequently became a family friend.
 
 # Death
