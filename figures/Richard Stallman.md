@@ -127,9 +127,13 @@ In March 2021, at LibrePlanet2021, Stallman announced his return to the FSF boar
 Shortly thereafter, a separate open letter was also published on GitHub asking for the removal of Stallman along with the entire FSF board of directors, supported by prominent open-source organizations including GNOME and Mozilla, and including a list of accusations against Stallman. Multiple organizations criticized, defunded, and/or cut ties with the FSF including Red Hat, the Free Software Foundation Europe, the Software Freedom Conservancy, SUSE, the OSI, the Document Foundation, the EFF, and the Tor Project. Debian declined to issue a statement after a community vote on the matter. However, the FSF noted that this had relatively little financial impact, as direct financial support from corporations accounted for less than 3% of its revenue in the most recent fiscal year.
 
 # Personal life
-Stallman lives in Boston and moved there after living in Cambridge, Massachusetts for many years. He speaks English, French, Spanish and some Indonesian. He has said that he is "an atheist of Jewish ancestry" and often wears a button that reads "Impeach God". He denies having autism, but has sometimes speculated whether he could have a "shadow" version of it. He says he is childfree.
+Stallman lives in Boston and moved there after living in Cambridge, Massachusetts for many years. He speaks English, French, Spanish and some Indonesian. He has said that he is "an atheist of Jewish ancestry" and often wears a button that reads "Impeach God". He says he is childfree.
 
-Stallman has written a collection of filk music and parody songs.
+
+
+Stallman denies having autism, but suffers from the Asperger syndrome. It especially shows in difficulties understanding social contexts and linguistic purism which he openly admits:Later in life, I discovered that some people had negative reactions to my behavior, which I did not even know about. Tending to be direct and honest with my thoughts, I sometimes made others uncomfortable or even offended them -- especially women. This was not a choice: I didn't understand the problem enough to know which choices there were.
+
+Sometimes I lost my temper because I didn't have the social skills to avoid it. Some people could cope with this; others were hurt. I apologize to each of them. Stallman has written a collection of filk music and parody songs.
 
 In September 2023, while giving his keynote presentation at the GNU 40th anniversary event, Stallman revealed he had been diagnosed with follicular lymphoma, a form of cancer, and said that his prognosis was good and he hopes to be around for years to come. He later stated he was in remission and he was getting treatment.
 
