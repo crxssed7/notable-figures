@@ -43,7 +43,7 @@ In 2005, the Industrial Research Institute awarded Ritchie its Achievement Award
 In 2011, Ritchie, along with Thompson, was awarded the Japan Prize for Information and Communications for his work in the development of the Unix operating system.
 
 # Death
-Ritchie was found dead on October 12, 2011, at the age of 70 at his home in Berkeley Heights, New Jersey, where he lived alone. First news of his death came from his former colleague, Rob Pike. He had been in frail health for several years following treatment for prostate cancer and heart disease. News of Ritchie's death was largely overshadowed by the media coverage of the death of Apple co-founder Steve Jobs, which occurred the week before.
+Ritchie was found dead on October 12, 2011, at the age of 70 at his home in Berkeley Heights, New Jersey, where he lived alone. First news of his death came from his former colleague, Rob Pike. He had been in frail health for several years following treatment for prostate cancer and heart disease.
 
 # Legacy
 Following Ritchie's death, computer historian Paul E. Ceruzzi stated:
