@@ -173,6 +173,11 @@ Although published before the structure and role of DNA was understood, Turing's
 
 A study conducted in 2023 confirmed Turing's mathematical model hypothesis. Presented by the American Physical Society, the experiment involved growing chia seeds in even layers within trays, later adjusting the available moisture. Researchers experimentally tweaked the factors which appear in the Turing equations, and, as a result, patterns resembling those seen in natural environments emerged. This is believed to be the first time that experiments with living vegetation have verified Turing's mathematical insight.
 
+## Ratio Club and other cybernetics contacts
+The Ratio Club was a London dining club for researchers (mostly biologists) with interests in cybernetics (which encompassed neuroscience, artificial intelligence and computing), "undoubtedly the most intellectually powerful grouping of British scientists interested in cybernetics" according to Phil Husbands and Owen Holland. At the first meeting on 4 September 1949 it was agreed to invite Turing to join. He accepted, giving his introductory talk at the 21 April 1950 meeting. He gave later talks based on both his "Computing Machinery and Intelligence" and "Chemical Basis of Morphogenesis" papers.
+
+On a 1949 visit to Britain to attend a conference on psychiatry American cybernetician Warren McCulloch made a trip to Manchester to meet Turing (who may have been unimpressed).
+
 # Personal life
 
 
