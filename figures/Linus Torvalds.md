@@ -93,7 +93,7 @@ In 2006, the magazine's Europe edition named him one of the revolutionary heroes
 
 InfoWorld presented him with the 2000 Award for Industry Achievement. In 2005, Torvalds appeared as one of "the best managers" in a survey by BusinessWeek. In 2006, Business 2.0 magazine named him one of "10 people who don't matter" because the growth of Linux has shrunk Torvalds's individual impact.
 
-In summer 2004, viewers of YLE (the Finnish Broadcasting Company) placed Torvalds 16th in the network's 100 Greatest Finns. In 2010, as part of a series called The Britannica Guide to the World's Most Influential People, Torvalds was listed among The 100 Most Influential Inventors of All Time (ISBN 9781615300037).
+In 2004, viewers of YLE (the Finnish Broadcasting Company) placed Torvalds 16th in the network's 100 Greatest Finns. In 2010, as part of a series called The Britannica Guide to the World's Most Influential People, Torvalds was listed among The 100 Most Influential Inventors of All Time (ISBN 9781615300037).
 
 On 11 October 2017, the Linux company SUSE made a song titled "Linus Said" about the origin of the Linux kernel.
 
