@@ -336,6 +336,8 @@ List of suicides of LGBTQ people
 
 List of pioneers in computer science
 
+Peter Hogg, Turing's friend from Sherborne
+
 ## Works cited
 
 
