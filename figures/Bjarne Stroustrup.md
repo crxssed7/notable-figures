@@ -139,7 +139,7 @@ B. Stroustrup: Data Abstraction in C. Bell Labs Technical Journal. vol 63. no 8 
 
 B. Stroustrup: Classes: An Abstract Data Type Facility for the C Language. Sigplan Notices, January 1982. doi:10.1145/947886.947893
 
-More than a hundred technical reports for the C++ standards committee (WG21)
+More than a hundred technical reports for the C++ standards committee (WG21).
 
 # See also
 List of pioneers in computer science
