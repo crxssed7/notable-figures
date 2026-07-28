@@ -17,11 +17,11 @@ Another contribution of Gosling's was co-writing the "bundle" program, known as 
 
 He left Sun Microsystems on April 2, 2010, after it was acquired by the Oracle Corporation, citing reductions in pay, status, and decision-making ability, along with change of role and ethical challenges. He has since taken a very critical stance towards Oracle in interviews, noting that "during the integration meetings between Sun and Oracle, where we were being grilled about the patent situation between Sun and Google, we could see the Oracle lawyer's eyes sparkle." He clarified his position during the Oracle v. Google trial over Android: "While I have differences with Oracle, in this case they are in the right. Google totally slimed Sun. We were all really disturbed, even Jonathan [Schwartz]: he just decided to put on a happy face and tried to turn lemons into lemonade, which annoyed a lot of folks at Sun." However, he approved of the court's ruling that APIs should not be copyrightable.
 
-In March 2011, Gosling joined Google. Six months later, he followed his colleague Bill Vass and joined a startup called Liquid Robotics. In late 2016, Liquid Robotics was acquired by Boeing. Following the acquisition, Gosling left Liquid Robotics to work at Amazon Web Services as Distinguished Engineer in May 2017. He retired in July 2024.
+In March 2011, Gosling joined Google. Six months later, he followed his colleague Bill Vass and joined a startup called Liquid Robotics. In late 2016, Liquid Robotics was acquired by Boeing. Following the acquisition, Gosling left Liquid Robotics to work at Amazon Web Services as Distinguished Engineer in May 2017. 
 
 He has worked as an advisor at the Scala company Lightbend, Independent Director at Jelastic, and Strategic Advisor for Eucalyptus, and is a board member of DIRTT Environmental Solutions.
 
-On July 2nd, 2024, Gosling announced he had officially retired.
+On July 2, 2024, Gosling announced he had officially retired.
 
 # Awards
 For his achievement, the National Academy of Engineering in the United States elected him as a Foreign Associate member. 
@@ -80,5 +80,5 @@ Presentation by James Gosling about the origins of Java, from the JVM Languages 
 
 The Process of Innovation – James Gosling's talk at Stanford University (video archive)
 
-James Gosling interview on Triangulation (TWiT.tv). Recorded 2016-04-11
+James Gosling interview on Triangulation (TWiT.tv). Recorded April 11, 2016
 

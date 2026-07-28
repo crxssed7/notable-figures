@@ -364,6 +364,8 @@ Science in the MakingArchived 4 April 2023 at the Wayback Machine Alan Turing's 
 
 The Turing Digital Archive – contains scans of some unpublished documents and material – King's College, Cambridge
 
+"Pryce’s Buoy", autofiction. Transcribed by Sarah Dillon. The Review of English Studies, 2026.
+
 Interviews
 
 
