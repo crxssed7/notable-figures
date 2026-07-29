@@ -74,7 +74,7 @@ Unix Programmer's Manual (1971)
 The C Programming Language (sometimes referred to as K&R; 1978 with Brian Kernighan)
 
 # Publications and academic papers
-Ritchie has been the author or contributor to about 50 academic papers, books and textbooks and which have had over 15,000 citations.
+Ritchie has been the author or contributor to about 50 academic papers, books, and textbooks which have had over 15,000 citations.
 
 Here are some of his most cited works:
 
