@@ -31,9 +31,13 @@ Between January 1922 and 1926, Turing was educated at Hazelhurst Preparatory Sch
 Turing's natural inclination towards mathematics and science did not earn him respect from some of the teachers at Sherborne, whose definition of education placed more emphasis on the classics. His headmaster wrote to his parents: "I hope he will not fall between two stools. If he is to stay at public school, he must aim at becoming educated. If he is to be solely a Scientific Specialist, he is wasting his time at a public school". Despite this, Turing continued to show remarkable ability in the studies he loved, solving advanced problems in 1927 without having studied even elementary calculus. In 1928, aged 16, Turing encountered Albert Einstein's work; not only did he grasp it, but it is possible that he managed to deduce Einstein's questioning of Newton's laws of motion from a text in which this was never made explicit.
 
 ## Christopher Morcom
-At Sherborne, Turing formed a significant friendship with fellow pupil Christopher Collan Morcom (13 July 1911 – 13 February 1930), who has been described as Turing's first love. Their relationship provided inspiration in Turing's future endeavours, but it was cut short by Morcom's death, in February 1930, from complications of bovine tuberculosis, contracted after drinking infected cow's milk some years previously.
+At Sherborne, Turing formed a significant friendship with fellow pupil Christopher Collan Morcom (13 July 1911 – 13 February 1930), who has been described as Turing's first love. Morcom was a student athlete, photographer, music collector, and astronomer, notable for his elaborate school pranks.
 
-The event caused Turing great sorrow. He coped with his grief by working that much harder on the topics of science and mathematics that he had shared with Morcom. In a letter to Morcom's mother, Frances Isobel Morcom (née Swan), Turing wrote:
+Their relationship, particularly in discussion of science and astronomy, is collected in letters. The Enigma details how Morcom "used to tease Alan a good deal", with various running in-jokes and pranks to inconvenience Turing. Nevertheless, their intellectual correspondences provided inspiration in Turing's future endeavours. 
+
+In February 1930, shortly before graduation, their relationship was cut short by Morcom's death. Months prior, the two had had a weeklong tour of Trinity College, Cambridge to sit scholarship examinations. Days after attending a Salisbury Singers concert, Morcom died of complications of bovine tuberculosis, which he had contracted earlier in life.
+
+Morcom's death caused Turing great sorrow. He accepted multiple prizes on Morcom's behalf, choosing books in Morcom's memory as prizes; and Turing also won the posthumous Christopher Morcom Science Prize, organized by Morcom's mother. In a letter to Morcom's mother, Frances Isobel Morcom (née Swan), Turing wrote: 
 
 
 
@@ -45,7 +49,9 @@ Turing's relationship with Morcom's mother continued long after Morcom's death, 
 
 I expect you will be thinking of Chris when this reaches you. I shall too, and this letter is just to tell you that I shall be thinking of Chris and of you tomorrow. I am sure that he is as happy now as he was when he was here. Your affectionate Alan.
 
-It has been speculated that Morcom's death was the cause of Turing's atheism and materialism. Apparently, at this point in his life he still believed in such concepts as a spirit, independent of the body and surviving death. In a later letter, also written to Morcom's mother, Turing wrote:
+Turing coped with his grief by working that much harder on the topics of science and mathematics that he had shared with Morcom.
+
+It has been speculated that Morcom's death was the cause of Turing's atheism and "the conviction that all phenomena must have materialistic explanations". Circa 1932, Turing wrote The Nature of Spirit while visiting Morcom's family home. His writings show a belief in such concepts as a spirit surviving death independent of the body. In a later letter, also written to Morcom's mother, Turing wrote:
 
 
 
@@ -198,6 +204,9 @@ Turing was later convinced by the advice of his brother and his own solicitor, a
 Turing's conviction led to the removal of his security clearance and barred him from continuing with his cryptographic consultancy for GCHQ, the British signals intelligence agency that had evolved from GC&CS in 1946, though he kept his academic post. His trial took place only months after the defection to the Soviet Union of Guy Burgess and Donald Maclean, in summer 1951, after which the Foreign Office started to consider anyone known to be homosexual as a potential security risk.
 
 Turing was denied entry into the United States after his conviction in 1952, but was free to visit other European countries. In the summer of 1952 he visited Norway, which was more tolerant of homosexuals. Among the various men he met there was one named Kjell Carlson. Kjell intended to visit Turing in the UK, but the authorities intercepted Kjell's postcard detailing his travel arrangements and were able to intercept and deport him before the two could meet. It was also during this time that Turing started consulting a psychiatrist, Franz Greenbaum, with whom he got on well and who subsequently became a family friend.
+
+### "Pryce's Buoy"
+Circa 1953, Turing wrote an unfinished comedic gay short story titled "Pryce's Buoy", which was unearthed in July of 2026. It was notable for revealing his "playful side". Largely autobiographical, the narrative piece detailed an erotic encouter between a male youth in need of money and a wealthy older theoretical scientist looking for casual sex. The title is a sexual pun of a fictional math equation, described by Turing within the story, sharing similarities with the Turing test. Literature professor Sarah Dillon of Cambridge University unearthed the story in 2026 by transcribing Turing's handwritten prose from archived pages and researching its origins and intent. The story revealed a sense of humor that was not widely known prior; multiple news outlets reported that Turing was "cheeky, funny, and really liked sex".
 
 # Death
 On 8 June 1954, at his house at 43 Adlington Road, Wilmslow, Turing's housekeeper found him dead. A post mortem was held that evening, which determined that he had died the previous day at age 41 with cyanide poisoning cited as the cause of death. When his body was discovered, an apple lay half-eaten beside his bed, and although the apple was not tested for cyanide, it was speculated that this was the means by which Turing had consumed a fatal dose.
