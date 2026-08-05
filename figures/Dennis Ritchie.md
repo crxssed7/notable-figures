@@ -91,6 +91,8 @@ Advanced Programming in the Unix Environment, WR Stevens, SA Rago, DM Ritchie, A
 # See also
 List of pioneers in computer science
 
+LOOP (programming language)
+
 # References
 
 
