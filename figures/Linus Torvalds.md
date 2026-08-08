@@ -47,7 +47,7 @@ On Sunday, 16 September 2018, the Linux kernel Code of Conflict was suddenly rep
 In 2024, amidst the Russian invasion of Ukraine, some developers were excluded from the list of Linux kernel maintainers, seemingly over being Russian or using Russian email addresses. Torvalds commented: "I'm Finnish. Did you think I'd be supporting Russian aggression?" Some developers, along with a part of Linux users, noted the lack of public clarity about that move. Later Torvalds claimed that he acted according to government compliance requirements and due to legal issues around Russia.
 
 ### The Linus/Linux connection
-Initially, Torvalds wanted to call the kernel he developed Freax (a combination of "free", "freak", and the letter X to indicate that it was a Unix-like system), but his friend Ari Lemmke, who administered the FTP server where the kernel was first hosted, named Torvalds' directory linux.
+Initially, Torvalds wanted to call the kernel he developed Freax (a combination of "free", "freak", and the letter X to indicate that it was a Unix-like system), but his friend Ari Lemmke, who administered the FTP server where the kernel was first hosted, named Torvalds's directory linux.
 
 # Authority and trademark
 As of 2006, approximately 2% of the Linux kernel was written by Torvalds. Despite the thousands who have contributed to it, his percentage is still one of the largest. However, he said in 2012 that his own personal contribution is now mostly merging code written by others, with little programming. He retains the highest authority to decide which new code is incorporated into the standard Linux kernel.
@@ -102,9 +102,9 @@ Torvalds, Linus; Diamond, David (2001). Just for Fun: The Story of an Accidental
 
 Himanen, Pekka (2001). The Hacker Ethic and the Spirit of the Information Age. Random House. ISBN 951-0-25417-7. Prologue: Linus Torvalds; Epilogue: Manuel Castells
 
-Moody, Glyn: Rebel Code. Engl. the beginning of work: Rebel Code. Eng. Riikka Toivanen and Heikki Karjalainen. In January 2001. ISBN 951-31-2003-1.
+Moody, Glyn (2001). Rebel Code: The Inside Story of Linux and the Open Source Revolution. Basic Books.  ISBN 0-7382-0670-9
 
-Nikkanen, Tuula: The Linux story. Satku, 2000. ISBN 951-762-990-7.
+Nikkanen, Tuula (2000). The Linux story. Satku. ISBN 951-762-990-7.
 
 # See also
 Linus's law
@@ -127,7 +127,7 @@ Himanen, Pekka; Torvalds, Linus; Castells, Manuel (2001). The Hacker Ethic. Seck
 
 Jukka Paakki (2011). "Linus Torvalds". Biografiskt lexikon för Finland (in Swedish). Helsingfors: Svenska litteratursällskapet i Finland. urn:NBN:fi:sls-5464-1416928958070.
 
-Linus' blog at Blogger (last post in 2011)
+Linus's blog at Blogger (last post in 2011)
 
 Linus Torvalds and His Five Entrepreneurial Lessons at AllBusiness.com
 
