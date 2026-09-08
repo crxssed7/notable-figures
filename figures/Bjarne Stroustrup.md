@@ -1,6 +1,6 @@
 # Bjarne Stroustrup
 
-*Bjarne Stroustrup ( ; Danish: [ˈbjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a Danish computer scientist, known for the development of the C++ programming language. He led the Large-scale Programming Research department at Bell Labs, served as a professor of computer science at Texas A&M University, and spent over a decade at Morgan Stanley while also being a visiting professor at Columbia University. Since 2022 he has been a full professor at Columbia.*
+*Bjarne Stroustrup ( ; Danish: [ˈbjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a Danish computer scientist, known for the development of the C++ programming language. He led the Large-scale Programming Research department at Bell Labs, served as a professor of computer science at Texas A&M University, and spent over a decade at Morgan Stanley while also being a visiting professor at Columbia University. Since 2022 he has been a full professor at Columbia. In 2026, he additionally joined the quantitative trading firm Susquehanna International Group as a part-time technical fellow.*
 
 # Early life and education
 Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.
@@ -19,6 +19,8 @@ From January 2014 to April 2022, Stroustrup was a technical fellow and managing 
 Since 2021, Bjarne Stroustrup has been a Technical Advisor to Metaspex, a company developing a new C++ programming approach for business applications.
 
 As of July 2022, Stroustrup is a full professor of computer science at Columbia University.
+
+In 2026, Stroustrup joined Susquehanna International Group, a quantitative trading firm based in Bala Cynwyd, Pennsylvania, as a part-time technical fellow, advising its engineering teams on modern C++ standards and software architecture. The firm announced the appointment in August 2026 alongside its sponsorship of the CppCon 2026 conference.
 
 ## C++
 Stroustrup is best known for his work on C++. In 1979, he began developing C++ (initially called "C with Classes"). In his own words, he "invented C++, wrote its early definitions, and produced its first implementation [...] chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee." C++ was made generally available in 1985. For non-commercial use, the source code of the compiler and the foundation libraries was the cost of shipping (US$75); this was before Internet access was common. Stroustrup also published a textbook for the language in 1985, The C++ Programming Language.
