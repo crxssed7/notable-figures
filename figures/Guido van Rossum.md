@@ -26,7 +26,7 @@ In January 2013, Van Rossum started working at the cloud file storage company Dr
 In October 2019, Van Rossum left Dropbox and officially retired.
 
 ## Microsoft
-On 12 November 2020 Van Rossum announced that he was coming out of retirement to join the Developer Division at Microsoft. He currently holds the title Distinguished Engineer at Microsoft.
+On 12 November 2020, Van Rossum announced that he was coming out of retirement to join the Developer Division at Microsoft. He held the title of Distinguished Engineer at Microsoft in the Developer Division, then later in the Office of the CTO. He retired from Microsoft in May 2026.
 
 # Python
 In December 1989, Van Rossum had been looking for a "'hobby' programming project that would keep [him] occupied during the week around Christmas" as his office was closed when he decided to write an interpreter for a "new scripting language [he] had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers". He chose the name Python for his programming language not because of the snake type but the comedy series Monty Python's Flying Circus.
@@ -51,11 +51,15 @@ Suitability for everyday tasks, allowing for short development times
 In 2019, Python became the second most popular language on GitHub, the largest source code management website on the internet, after JavaScript. In 2024 Python became the most used language on GitHub, overtaking JavaScript after a 10-year run as the most used language. According to a programming language popularity survey it is consistently among the top 10 most mentioned languages in job postings. Furthermore, Python has been among the 10 most popular programming languages every year since 2004 according to the TIOBE Programming Community Index and got the number one spot on the index in October 2021.
 
 # Awards
+In 1999, Von Rossum along with Donald Becker received the Dr. Dobb's Journal Excellence in Programming Award
+
 At the 2009 FOSDEM conference in Brussels, Van Rossum received the 2001 Award for the Advancement of Free Software from the Free Software Foundation (FSF) for his work on Python.
 
 In May 2003, he received a NLUUG Award.
 
 In 2006, he was recognized as an ACM Distinguished Engineer.
+
+in 2007, he was awarded the USENIX STUG Award.
 
 In 2018, he was made a Fellow of the Computer History museum.
 
