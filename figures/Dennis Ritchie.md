@@ -82,7 +82,7 @@ Here are some of his most cited works:
 
 The C Programming Language, BW Kernighan, DM Ritchie, Prentice Hall, Englewood Cliffs, New Jersey (1978)
 
-Programming languages, D Ritchie (1978) 
+Programming languages, D Ritchie (1978)
 
 The UNIX time-sharing system, DM Ritchie, K Thompson, Classic operating systems, 195-220 (2001)
 
