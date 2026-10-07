@@ -1,6 +1,6 @@
 # Dennis Ritchie
 
-*Dennis MacAlistair Ritchie (September 9, 1941 – c. October 12, 2011) was an American computer scientist. He created, together with long-time colleague Ken Thompson, the Unix operating system, C programming language, and B programming language.*
+*Dennis MacAlistair Ritchie (September 9, 1941 – c. October 12, 2011) was an American computer scientist. He created, together with long-time colleague Ken Thompson, the operating system Unix, and programming languages B and C.*
 
 # Early life and education
 Dennis Ritchie was born in Bronxville, New York. His father was Alistair E. Ritchie, a longtime Bell Labs scientist and co-author of The Design of Switching Circuits on switching circuit theory. As a child, Dennis moved with his family to Summit, New Jersey, where he graduated from Summit High School. He graduated from Harvard University with degrees in physics and applied mathematics in 1963.
