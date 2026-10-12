@@ -184,13 +184,29 @@ On a 1949 visit to Britain to attend a conference on psychiatry American cyberne
 ## Treasure
 In the 1940s, Turing became worried about losing his savings in the event of a German invasion. To protect it, he bought two silver bars weighing 3,200 oz (90 kg) and worth £250 (in 2022, £8,000 adjusted for inflation, £48,000 at spot price) and buried them in a wood near Bletchley Park. Upon planning to return to dig them up, Turing found that he was unable to break his own code describing where exactly he had hidden them. This, along with the fact that the area had been renovated, meant that he never regained the silver.
 
-## Engagement
-In 1941, Turing proposed marriage to Hut 8 colleague Joan Clarke, a fellow mathematician and cryptanalyst, but their engagement was short-lived. After admitting his homosexuality to his fiancée, who was reportedly "unfazed" by the revelation, Turing decided that he could not go through with the marriage.
-
 ## Chess
 Turing invented a hybrid chess sport, earlier than chess boxing, referred to as round-the-house chess, one player makes a chess move, then that player runs around the house, and the other player must make a chess move before the first player returns.
 
-## Homosexuality and indecency conviction
+## Porgy
+For Christmas 1934, the college graduate Turing asked his mother for a teddy bear, saying he never had one as a child. He received a Chad Valley teddy bear, which he named Porgy.
+
+In 1935, while the 22-year-old Turing supervised graduates in Cambridge's Trinity Hall, students sometimes returned to find that Turing had rigged Porgy to sit by the fireplace, in front of an open book supported by a ruler. Turing reportedly greeted them with, "Porgy is very studious this morning."
+
+Turing also employed Porgy as an audience to practise maths lectures.
+
+In 1945, Turing sewed an outfit for the bear as a Christmas surprise for his neice, Shuna Turing, then 5 years of age. Shuna had just been gifted a new outfit for herself, consisting of a plaid skirt with red buttons. The following morning, she arose to find Porgy wearing the same outfit (crafted by Turing). This surprised Shuna enough to exclaim, "What a Christmas!". By 2012, Shuna Turing's memories and the corresponding bear was exhibited by the Bletchley Park museum.
+
+Circa 2010, the bear had its own Facebook page.
+
+Turing's relationship to Porgy was lampooned in the 2015 dramatic play Lovesong of the Electric Bear, in which Porgy was a protagonist.
+
+## Homosexuality
+
+
+### Engagement
+In 1941, Turing proposed marriage to Hut 8 colleague Joan Clarke, a fellow mathematician and cryptanalyst, but their engagement was short-lived. After admitting his homosexuality to his fiancée, who was reportedly "unfazed" by the revelation, Turing decided that he could not go through with the marriage.
+
+### Indecency conviction
 In December 1951, Turing met Arnold Murray, a 19-year-old unemployed man. Turing was walking along Manchester's Oxford Road when he met Murray just outside the Regal Cinema and invited him to lunch. The two agreed to meet again and in January 1952 began an intimate relationship.
 
 On 23 January, Turing's house in Wilmslow was burgled. Murray told Turing that he and the burglar were acquainted, and Turing reported the crime to the police. During the investigation, he acknowledged a sexual relationship with Murray. Homosexual acts were criminal offences in the United Kingdom at that time, and prosecutions had been increasing amid waning social opprobrium, a state of affairs accepted and expected in more conservative circles.
