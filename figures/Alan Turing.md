@@ -194,7 +194,7 @@ In 1935, while the 22-year-old Turing supervised graduates in Cambridge's Trinit
 
 Turing also employed Porgy as an audience to practise maths lectures.
 
-In 1945, Turing sewed an outfit for the bear as a Christmas surprise for his neice, Shuna Turing, then 5 years of age. Shuna had just been gifted a new outfit for herself, consisting of a plaid skirt with red buttons. The following morning, she arose to find Porgy wearing the same outfit (crafted by Turing). This surprised Shuna enough to exclaim, "What a Christmas!". By 2012, Shuna Turing's memories and the corresponding bear was exhibited by the Bletchley Park museum.
+In 1945, Turing sewed an outfit for the bear as a Christmas surprise for his niece, Shuna Turing, then 5 years of age. Shuna had just been gifted a new outfit for herself, consisting of a plaid skirt with red buttons. The following morning, she arose to find Porgy wearing the same outfit (crafted by Turing). This surprised Shuna enough to exclaim, "What a Christmas!". By 2012, Shuna Turing's memories and the corresponding bear was exhibited by the Bletchley Park museum.
 
 Circa 2010, the bear had its own Facebook page.
 
