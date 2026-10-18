@@ -33,7 +33,7 @@ A static type system with equal support for built-in types and user-defined type
 
 Value and reference semantics.
 
-Systematic and general resource management (RAII): constructors, destructor, and exceptions relying on them.
+Systematic and general resource management (RAII): constructors, destructors, and exceptions relying on them.
 
 Support for efficient object-oriented programming: based on the Simula model with statically checked interfaces, multiple inheritance, and efficient implementation based on virtual function tables.
 
